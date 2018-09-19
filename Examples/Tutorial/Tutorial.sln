@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tutorial", "Tutorial\Tutorial.fsproj", "{CE3A0DB1-0857-4820-8BD0-9D0A39AB9D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3A0DB1-0857-4820-8BD0-9D0A39AB9D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3A0DB1-0857-4820-8BD0-9D0A39AB9D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3A0DB1-0857-4820-8BD0-9D0A39AB9D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3A0DB1-0857-4820-8BD0-9D0A39AB9D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9472DD17-D910-4DC1-90CB-392ADAD96205}
+	EndGlobalSection
+EndGlobal
