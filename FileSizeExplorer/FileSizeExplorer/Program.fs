@@ -5,48 +5,36 @@ open System.IO
 
 module FileParser = 
 
-//Outdated use fileINFO Type type for 
+    /// Possibly could use the given FileInfo System Type
     type File = {
-        Name: String;
-        Directory: String;
-        Extendsion: String;
-        Size: int;
+        Name: string;
+        Directory: string;
+        Extension: string;
+        Size: double;
     } 
 
-//Directory and Files Pattern Match?
 
+//Directory and Files and extention  Pattern Match?
 
+    let GetFilesInDirectory x = 
+        Directory.EnumerateFiles x
+        |> Seq.map ( fun x -> FileInfo(x) )
+        |> Seq.filter ( fun x -> File.Exists(x.FullName ))
+        |> Seq.filter ( fun x -> x.Length > int64(10) )
+        |> Seq.iter ( fun x -> printfn "File: %s, of Type: %s, is %d bytes " x.Name x.Extension x.Length )
 
-    let GetFilesInDirectory d =
-        Directory.GetFiles d
-
-    let PrintFilesNames fileNames = 
-        for x in fileNames do
+    let rec GetDirectories x =
+        Directory.EnumerateDirectories x
+        |> Seq.iter( fun x -> 
+            GetFilesInDirectory x
             printfn "%s" x
+            GetDirectories x)
 
-    let GetFileInfo name =
-        let x = FileInfo(name)
-        printfn "File: %s, is %d bytes " x.Name x.Length
-
-    let GetFilesAndSize d =
-        Directory.GetFiles d
-        |> Array.map ( fun x -> FileInfo(x) )
-        |> Array.sortBy ( fun x -> x.Length )
-        |> Array.iter ( fun x -> printfn "File: %s, is %d bytes " x.Name x.Length )
 
 
     [<EntryPoint>]
-    let main argv = 
-        //Test 1: get the files in a directory
-        let listoffiles = GetFilesInDirectory @"D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug"
-        PrintFilesNames listoffiles
-        Console.ReadKey() |> ignore
-        //Test 2: get the size of a specific file
-        GetFileInfo @"D:\AlcentraBackUp"
-        Console.ReadKey() |> ignore
-        //Test 3: get the largest file from a list
-        GetFilesAndSize @"D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug"
-        Console.ReadKey() |> ignore
+    let main argv =
+        GetDirectories @"D:\Gothub\"
 
         0 // return an integer exit code
 
