@@ -1,0 +1,996 @@
+Driectory Name: ConsoleReg, Path: D:\GotHub\ConsoleReg, TotalSize: 0
+Driectory Name: WSORegCleaner, Path: D:\GotHub\ConsoleReg\WSORegCleaner, TotalSize: 1138
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner.sln, Directory: WSORegCleaner, Extention: .sln, Size: 1138
+Driectory Name: .vs, Path: D:\GotHub\ConsoleReg\WSORegCleaner\.vs, TotalSize: 0
+Driectory Name: WSORegCleaner, Path: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner, TotalSize: 0
+Driectory Name: v15, Path: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15, TotalSize: 14848
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\.suo, Directory: v15, Extention: .suo, Size: 14848
+Driectory Name: Server, Path: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\Server, TotalSize: 0
+Driectory Name: sqlite3, Path: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\Server\sqlite3, TotalSize: 968016
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\Server\sqlite3\db.lock, Directory: sqlite3, Extention: .lock, Size: 0
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\Server\sqlite3\storage.ide, Directory: sqlite3, Extention: .ide, Size: 4096
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\Server\sqlite3\storage.ide-shm, Directory: sqlite3, Extention: .ide-shm, Size: 32768
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\.vs\WSORegCleaner\v15\Server\sqlite3\storage.ide-wal, Directory: sqlite3, Extention: .ide-wal, Size: 931152
+Driectory Name: WSORegCleaner, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner, TotalSize: 373
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\Program.cs, Directory: WSORegCleaner, Extention: .cs, Size: 195
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\WSORegCleaner.csproj, Directory: WSORegCleaner, Extention: .csproj, Size: 178
+Driectory Name: bin, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\bin, TotalSize: 0
+Driectory Name: Debug, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\bin\Debug, TotalSize: 0
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\bin\Debug\netcoreapp2.0, TotalSize: 0
+Driectory Name: obj, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj, TotalSize: 42020
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\project.assets.json, Directory: obj, Extention: .json, Size: 39362
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\WSORegCleaner.csproj.nuget.cache, Directory: obj, Extention: .cache, Size: 149
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\WSORegCleaner.csproj.nuget.g.props, Directory: obj, Extention: .props, Size: 1586
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\WSORegCleaner.csproj.nuget.g.targets, Directory: obj, Extention: .targets, Size: 923
+Driectory Name: Debug, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\Debug, TotalSize: 0
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\Debug\netcoreapp2.0, TotalSize: 103263
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\Debug\netcoreapp2.0\WSORegCleaner.AssemblyInfo.cs, Directory: netcoreapp2.0, Extention: .cs, Size: 1012
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\Debug\netcoreapp2.0\WSORegCleaner.AssemblyInfoInputs.cache, Directory: netcoreapp2.0, Extention: .cache, Size: 42
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\Debug\netcoreapp2.0\WSORegCleaner.csproj.CoreCompileInputs.cache, Directory: netcoreapp2.0, Extention: .cache, Size: 42
+File Name: D:\GotHub\ConsoleReg\WSORegCleaner\WSORegCleaner\obj\Debug\netcoreapp2.0\WSORegCleaner.csprojAssemblyReference.cache, Directory: netcoreapp2.0, Extention: .cache, Size: 102167
+Driectory Name: FSharp, Path: D:\GotHub\FSharp, TotalSize: 0
+Driectory Name: .git, Path: D:\GotHub\FSharp\.git, TotalSize: 38297
+File Name: D:\GotHub\FSharp\.git\COMMIT_EDITMSG, Directory: .git, Extention: , Size: 5
+File Name: D:\GotHub\FSharp\.git\config, Directory: .git, Extention: , Size: 310
+File Name: D:\GotHub\FSharp\.git\description, Directory: .git, Extention: , Size: 73
+File Name: D:\GotHub\FSharp\.git\FETCH_HEAD, Directory: .git, Extention: , Size: 105
+File Name: D:\GotHub\FSharp\.git\HEAD, Directory: .git, Extention: , Size: 23
+File Name: D:\GotHub\FSharp\.git\index, Directory: .git, Extention: , Size: 37590
+File Name: D:\GotHub\FSharp\.git\ms-persist.xml, Directory: .git, Extention: .xml, Size: 150
+File Name: D:\GotHub\FSharp\.git\ORIG_HEAD, Directory: .git, Extention: , Size: 41
+Driectory Name: hooks, Path: D:\GotHub\FSharp\.git\hooks, TotalSize: 15268
+File Name: D:\GotHub\FSharp\.git\hooks\applypatch-msg.sample, Directory: hooks, Extention: .sample, Size: 478
+File Name: D:\GotHub\FSharp\.git\hooks\commit-msg.sample, Directory: hooks, Extention: .sample, Size: 896
+File Name: D:\GotHub\FSharp\.git\hooks\post-update.sample, Directory: hooks, Extention: .sample, Size: 189
+File Name: D:\GotHub\FSharp\.git\hooks\pre-applypatch.sample, Directory: hooks, Extention: .sample, Size: 424
+File Name: D:\GotHub\FSharp\.git\hooks\pre-commit.sample, Directory: hooks, Extention: .sample, Size: 1642
+File Name: D:\GotHub\FSharp\.git\hooks\pre-push.sample, Directory: hooks, Extention: .sample, Size: 1348
+File Name: D:\GotHub\FSharp\.git\hooks\pre-rebase.sample, Directory: hooks, Extention: .sample, Size: 4898
+File Name: D:\GotHub\FSharp\.git\hooks\pre-receive.sample, Directory: hooks, Extention: .sample, Size: 544
+File Name: D:\GotHub\FSharp\.git\hooks\prepare-commit-msg.sample, Directory: hooks, Extention: .sample, Size: 1239
+File Name: D:\GotHub\FSharp\.git\hooks\update.sample, Directory: hooks, Extention: .sample, Size: 3610
+Driectory Name: info, Path: D:\GotHub\FSharp\.git\info, TotalSize: 240
+File Name: D:\GotHub\FSharp\.git\info\exclude, Directory: info, Extention: , Size: 240
+Driectory Name: logs, Path: D:\GotHub\FSharp\.git\logs, TotalSize: 1551
+File Name: D:\GotHub\FSharp\.git\logs\HEAD, Directory: logs, Extention: , Size: 1551
+Driectory Name: refs, Path: D:\GotHub\FSharp\.git\logs\refs, TotalSize: 0
+Driectory Name: heads, Path: D:\GotHub\FSharp\.git\logs\refs\heads, TotalSize: 1221
+File Name: D:\GotHub\FSharp\.git\logs\refs\heads\master, Directory: heads, Extention: , Size: 1221
+Driectory Name: remotes, Path: D:\GotHub\FSharp\.git\logs\refs\remotes, TotalSize: 0
+Driectory Name: origin, Path: D:\GotHub\FSharp\.git\logs\refs\remotes\origin, TotalSize: 756
+File Name: D:\GotHub\FSharp\.git\logs\refs\remotes\origin\master, Directory: origin, Extention: , Size: 756
+Driectory Name: objects, Path: D:\GotHub\FSharp\.git\objects, TotalSize: 0
+Driectory Name: 00, Path: D:\GotHub\FSharp\.git\objects\00, TotalSize: 168
+File Name: D:\GotHub\FSharp\.git\objects\00\d2f01c196cf821624609aa6888dbb5a6e5e67e, Directory: 00, Extention: , Size: 168
+Driectory Name: 02, Path: D:\GotHub\FSharp\.git\objects\02, TotalSize: 1964
+File Name: D:\GotHub\FSharp\.git\objects\02\efc9ecc048a9a8e4400899636e6df1de3cde62, Directory: 02, Extention: , Size: 1964
+Driectory Name: 03, Path: D:\GotHub\FSharp\.git\objects\03, TotalSize: 91
+File Name: D:\GotHub\FSharp\.git\objects\03\199d8a24584fe2f5274d50636e0c503ee1b0b0, Directory: 03, Extention: , Size: 91
+Driectory Name: 04, Path: D:\GotHub\FSharp\.git\objects\04, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\04\f9461959f7551f84ac7c92f6edbab6a17f9d69, Directory: 04, Extention: , Size: 70
+Driectory Name: 05, Path: D:\GotHub\FSharp\.git\objects\05, TotalSize: 21676
+File Name: D:\GotHub\FSharp\.git\objects\05\1cf389a079c5bf9871efd518ffa77871b2d409, Directory: 05, Extention: , Size: 155
+File Name: D:\GotHub\FSharp\.git\objects\05\806b23ae7495b2f9096a371d5e1268766f4787, Directory: 05, Extention: , Size: 21023
+File Name: D:\GotHub\FSharp\.git\objects\05\e350853699e401395c88b3c3a99bb566fcaad6, Directory: 05, Extention: , Size: 498
+Driectory Name: 06, Path: D:\GotHub\FSharp\.git\objects\06, TotalSize: 4151
+File Name: D:\GotHub\FSharp\.git\objects\06\055ff03ecd60832f85fb35bed4fba01aea16e1, Directory: 06, Extention: , Size: 4094
+File Name: D:\GotHub\FSharp\.git\objects\06\f3e87d93e9007788e5da2aaf2a45414b34e158, Directory: 06, Extention: , Size: 57
+Driectory Name: 07, Path: D:\GotHub\FSharp\.git\objects\07, TotalSize: 293
+File Name: D:\GotHub\FSharp\.git\objects\07\37a1e93624574a05a39d514ddd236498c4b568, Directory: 07, Extention: , Size: 293
+Driectory Name: 09, Path: D:\GotHub\FSharp\.git\objects\09, TotalSize: 32433
+File Name: D:\GotHub\FSharp\.git\objects\09\37c635aa3c1381e96f62de9cb394b6f84bb9a5, Directory: 09, Extention: , Size: 12652
+File Name: D:\GotHub\FSharp\.git\objects\09\b85b675286c78389a3930a0cd6502d3198be8f, Directory: 09, Extention: , Size: 19781
+Driectory Name: 0a, Path: D:\GotHub\FSharp\.git\objects\0a, TotalSize: 20589
+File Name: D:\GotHub\FSharp\.git\objects\0a\dbe8f2f601105e833543b47fe2d51f2e093c88, Directory: 0a, Extention: , Size: 20589
+Driectory Name: 0b, Path: D:\GotHub\FSharp\.git\objects\0b, TotalSize: 426
+File Name: D:\GotHub\FSharp\.git\objects\0b\8a6b7431ca15cce36ae0645accc47c8f1b246f, Directory: 0b, Extention: , Size: 356
+File Name: D:\GotHub\FSharp\.git\objects\0b\e5230b125ab6a3c35fb25a1b592d556c924631, Directory: 0b, Extention: , Size: 70
+Driectory Name: 0e, Path: D:\GotHub\FSharp\.git\objects\0e, TotalSize: 114
+File Name: D:\GotHub\FSharp\.git\objects\0e\6288c0cfc3503a547f13246c955d50714b83f4, Directory: 0e, Extention: , Size: 114
+Driectory Name: 0f, Path: D:\GotHub\FSharp\.git\objects\0f, TotalSize: 595
+File Name: D:\GotHub\FSharp\.git\objects\0f\631db3a1646b0de9ed8729efb92ed75599052a, Directory: 0f, Extention: , Size: 595
+Driectory Name: 11, Path: D:\GotHub\FSharp\.git\objects\11, TotalSize: 260
+File Name: D:\GotHub\FSharp\.git\objects\11\21c9ab57aa5b7ae807d8f3671e8c7bab99039e, Directory: 11, Extention: , Size: 260
+Driectory Name: 12, Path: D:\GotHub\FSharp\.git\objects\12, TotalSize: 55
+File Name: D:\GotHub\FSharp\.git\objects\12\fe572d35f0d619278a05706a20ac5d14b372c8, Directory: 12, Extention: , Size: 55
+Driectory Name: 13, Path: D:\GotHub\FSharp\.git\objects\13, TotalSize: 4288
+File Name: D:\GotHub\FSharp\.git\objects\13\4a9b3b2053d6a82eeb33123a0287ae8f566383, Directory: 13, Extention: , Size: 3743
+File Name: D:\GotHub\FSharp\.git\objects\13\93fd51882f9ae136476bd17a0823c78a1c45ef, Directory: 13, Extention: , Size: 243
+File Name: D:\GotHub\FSharp\.git\objects\13\c8df01d3f815ba476ee4999b4f5817f525f748, Directory: 13, Extention: , Size: 302
+Driectory Name: 15, Path: D:\GotHub\FSharp\.git\objects\15, TotalSize: 739
+File Name: D:\GotHub\FSharp\.git\objects\15\37a38530d05542c0ce3987f2d17c6ad465d07e, Directory: 15, Extention: , Size: 561
+File Name: D:\GotHub\FSharp\.git\objects\15\f6911f0ec2222eda797f7e6ac0d6e751aa7ae1, Directory: 15, Extention: , Size: 178
+Driectory Name: 16, Path: D:\GotHub\FSharp\.git\objects\16, TotalSize: 47
+File Name: D:\GotHub\FSharp\.git\objects\16\cd0186d5b9bf8686363954e0da978695f4a354, Directory: 16, Extention: , Size: 47
+Driectory Name: 17, Path: D:\GotHub\FSharp\.git\objects\17, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\17\38a9c51403ca15c189f5c35dae9c20c1b434fa, Directory: 17, Extention: , Size: 70
+Driectory Name: 19, Path: D:\GotHub\FSharp\.git\objects\19, TotalSize: 48
+File Name: D:\GotHub\FSharp\.git\objects\19\23e2c3c252e05eabf5a1c6d377b375d19fe1c6, Directory: 19, Extention: , Size: 48
+Driectory Name: 1a, Path: D:\GotHub\FSharp\.git\objects\1a, TotalSize: 20869
+File Name: D:\GotHub\FSharp\.git\objects\1a\ef5ffdf790d5a1c54a5655ccff2ac4b8a8e641, Directory: 1a, Extention: , Size: 20869
+Driectory Name: 1c, Path: D:\GotHub\FSharp\.git\objects\1c, TotalSize: 125
+File Name: D:\GotHub\FSharp\.git\objects\1c\1e4c83e27f19e448ac3dadc7503eb98307dc87, Directory: 1c, Extention: , Size: 69
+File Name: D:\GotHub\FSharp\.git\objects\1c\a86a08edec8e95f0e15bf687ac8397c26caf80, Directory: 1c, Extention: , Size: 56
+Driectory Name: 1d, Path: D:\GotHub\FSharp\.git\objects\1d, TotalSize: 57
+File Name: D:\GotHub\FSharp\.git\objects\1d\b3328c1c1df29419148565d6a3b71a4608d755, Directory: 1d, Extention: , Size: 57
+Driectory Name: 1e, Path: D:\GotHub\FSharp\.git\objects\1e, TotalSize: 1470
+File Name: D:\GotHub\FSharp\.git\objects\1e\c5fb350a2ff52a249296d92db76935c95f951f, Directory: 1e, Extention: , Size: 1470
+Driectory Name: 21, Path: D:\GotHub\FSharp\.git\objects\21, TotalSize: 14784
+File Name: D:\GotHub\FSharp\.git\objects\21\c93e927fed5538b181976f775dc910a7c243ed, Directory: 21, Extention: , Size: 14784
+Driectory Name: 22, Path: D:\GotHub\FSharp\.git\objects\22, TotalSize: 2587
+File Name: D:\GotHub\FSharp\.git\objects\22\f110351e5803f69925782a17e6e60fd7b32349, Directory: 22, Extention: , Size: 2587
+Driectory Name: 23, Path: D:\GotHub\FSharp\.git\objects\23, TotalSize: 21223
+File Name: D:\GotHub\FSharp\.git\objects\23\8811c26fa253105478a7dd4bfeafdf71ac1016, Directory: 23, Extention: , Size: 20992
+File Name: D:\GotHub\FSharp\.git\objects\23\9096e1494ca0d2c272365eb70be34c83c3d406, Directory: 23, Extention: , Size: 231
+Driectory Name: 24, Path: D:\GotHub\FSharp\.git\objects\24, TotalSize: 2125
+File Name: D:\GotHub\FSharp\.git\objects\24\5235048fbf9739133db9ddd4f90059b1b8fa6b, Directory: 24, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\24\e39bef4e89edc6759364f8622dbb398a7d6798, Directory: 24, Extention: , Size: 240
+File Name: D:\GotHub\FSharp\.git\objects\24\f9d411b9dfda9b730547e7866ae150ac6e036b, Directory: 24, Extention: , Size: 1815
+Driectory Name: 25, Path: D:\GotHub\FSharp\.git\objects\25, TotalSize: 5083
+File Name: D:\GotHub\FSharp\.git\objects\25\fd4a49c10151abe42ea46a3922dc306dc3118d, Directory: 25, Extention: , Size: 5083
+Driectory Name: 27, Path: D:\GotHub\FSharp\.git\objects\27, TotalSize: 202
+File Name: D:\GotHub\FSharp\.git\objects\27\26e0c0e2928cdd22508503990777578433bbd7, Directory: 27, Extention: , Size: 39
+File Name: D:\GotHub\FSharp\.git\objects\27\33f3c005aa1899a0c72fadde8d308cedb2e1e6, Directory: 27, Extention: , Size: 93
+File Name: D:\GotHub\FSharp\.git\objects\27\e8e798e311d47092a448965f09f2961f7a7747, Directory: 27, Extention: , Size: 70
+Driectory Name: 2a, Path: D:\GotHub\FSharp\.git\objects\2a, TotalSize: 6185
+File Name: D:\GotHub\FSharp\.git\objects\2a\24a2a7e1325ffd6fe1606f5e69263efe2c735b, Directory: 2a, Extention: , Size: 5019
+File Name: D:\GotHub\FSharp\.git\objects\2a\444b9ccae44754419f0a35f23388b6e6b2d95f, Directory: 2a, Extention: , Size: 152
+File Name: D:\GotHub\FSharp\.git\objects\2a\dadeec8b63e7d780ad12a7143b2bd35c544916, Directory: 2a, Extention: , Size: 1014
+Driectory Name: 2c, Path: D:\GotHub\FSharp\.git\objects\2c, TotalSize: 865801
+File Name: D:\GotHub\FSharp\.git\objects\2c\eaf34c478039cfdd8bb8f83952c0e3cb8f7648, Directory: 2c, Extention: , Size: 865801
+Driectory Name: 2d, Path: D:\GotHub\FSharp\.git\objects\2d, TotalSize: 454
+File Name: D:\GotHub\FSharp\.git\objects\2d\4364d22442f17d35a91c0ab732e59130fcdd57, Directory: 2d, Extention: , Size: 454
+Driectory Name: 2e, Path: D:\GotHub\FSharp\.git\objects\2e, TotalSize: 13816
+File Name: D:\GotHub\FSharp\.git\objects\2e\81d9c1625b9cd5066a970c316298f7e52936df, Directory: 2e, Extention: , Size: 13816
+Driectory Name: 2f, Path: D:\GotHub\FSharp\.git\objects\2f, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\2f\69516e12bd3162c52a31a9ba25bd661bcd5d08, Directory: 2f, Extention: , Size: 70
+Driectory Name: 30, Path: D:\GotHub\FSharp\.git\objects\30, TotalSize: 38950
+File Name: D:\GotHub\FSharp\.git\objects\30\47bba8d507d350dd65dd3edafa784f73754eae, Directory: 30, Extention: , Size: 38950
+Driectory Name: 31, Path: D:\GotHub\FSharp\.git\objects\31, TotalSize: 20478
+File Name: D:\GotHub\FSharp\.git\objects\31\c87633254e0e08d6be328f2f19d95720b6fde7, Directory: 31, Extention: , Size: 20478
+Driectory Name: 33, Path: D:\GotHub\FSharp\.git\objects\33, TotalSize: 188
+File Name: D:\GotHub\FSharp\.git\objects\33\1f2f0ce03122eb3ad24fa85727557620bbf1ed, Directory: 33, Extention: , Size: 188
+Driectory Name: 34, Path: D:\GotHub\FSharp\.git\objects\34, TotalSize: 90
+File Name: D:\GotHub\FSharp\.git\objects\34\78458d7d7a486b3d71e9909a3cdff9eddaefdb, Directory: 34, Extention: , Size: 90
+Driectory Name: 37, Path: D:\GotHub\FSharp\.git\objects\37, TotalSize: 247
+File Name: D:\GotHub\FSharp\.git\objects\37\0ea21fc9985c24ddcf4a56c33b422277335052, Directory: 37, Extention: , Size: 94
+File Name: D:\GotHub\FSharp\.git\objects\37\2394e48b7c379a968c4f894eb2252210fa6564, Directory: 37, Extention: , Size: 153
+Driectory Name: 3a, Path: D:\GotHub\FSharp\.git\objects\3a, TotalSize: 155
+File Name: D:\GotHub\FSharp\.git\objects\3a\c3eb1902c1c9b71d27b8dd1cd179c24c52e681, Directory: 3a, Extention: , Size: 155
+Driectory Name: 3c, Path: D:\GotHub\FSharp\.git\objects\3c, TotalSize: 6859
+File Name: D:\GotHub\FSharp\.git\objects\3c\18e97ea3d0485ac9930286038f12b696ba23f2, Directory: 3c, Extention: , Size: 6859
+Driectory Name: 3e, Path: D:\GotHub\FSharp\.git\objects\3e, TotalSize: 1587
+File Name: D:\GotHub\FSharp\.git\objects\3e\861c0fe5cdb55cb6ff0b5d2047c9ce4d164a69, Directory: 3e, Extention: , Size: 109
+File Name: D:\GotHub\FSharp\.git\objects\3e\b10068b22b7035c57c5e99a22bd245528ff779, Directory: 3e, Extention: , Size: 378
+File Name: D:\GotHub\FSharp\.git\objects\3e\c0b6d99710c3565997261cc8f3549923540959, Directory: 3e, Extention: , Size: 145
+File Name: D:\GotHub\FSharp\.git\objects\3e\c9133e69795b732567b1e56a22451284e91206, Directory: 3e, Extention: , Size: 747
+File Name: D:\GotHub\FSharp\.git\objects\3e\d7c82f40f7280128ec454fa941b9a39b40edc3, Directory: 3e, Extention: , Size: 208
+Driectory Name: 40, Path: D:\GotHub\FSharp\.git\objects\40, TotalSize: 20973
+File Name: D:\GotHub\FSharp\.git\objects\40\b54b4bf6e3a81aa5e0936117e9cba52e39a185, Directory: 40, Extention: , Size: 20903
+File Name: D:\GotHub\FSharp\.git\objects\40\e49bfbf421ff3995d4ee4ea0e4ab7273bca474, Directory: 40, Extention: , Size: 70
+Driectory Name: 43, Path: D:\GotHub\FSharp\.git\objects\43, TotalSize: 96259
+File Name: D:\GotHub\FSharp\.git\objects\43\55522d370b23dc554609c290a5b65e65a555e6, Directory: 43, Extention: , Size: 52160
+File Name: D:\GotHub\FSharp\.git\objects\43\5c26bebfd79868937d9bdbcfb2ab3b9074236c, Directory: 43, Extention: , Size: 83
+File Name: D:\GotHub\FSharp\.git\objects\43\7e77d9365b9c57ca26f0b8b4ca2accae4dc899, Directory: 43, Extention: , Size: 22608
+File Name: D:\GotHub\FSharp\.git\objects\43\939e2aaaad08f820518ac4afb5abef0e3805c5, Directory: 43, Extention: , Size: 104
+File Name: D:\GotHub\FSharp\.git\objects\43\97082732df2f300db50652f464bce3345a1349, Directory: 43, Extention: , Size: 21151
+File Name: D:\GotHub\FSharp\.git\objects\43\e2e1850707c71239a994492701204a26122262, Directory: 43, Extention: , Size: 153
+Driectory Name: 44, Path: D:\GotHub\FSharp\.git\objects\44, TotalSize: 1737
+File Name: D:\GotHub\FSharp\.git\objects\44\01afb21fbbdbacc8794ea6549b4423120272bc, Directory: 44, Extention: , Size: 193
+File Name: D:\GotHub\FSharp\.git\objects\44\0b4f68cd1eb1efa645d4e4da968dffc61680e1, Directory: 44, Extention: , Size: 1544
+Driectory Name: 46, Path: D:\GotHub\FSharp\.git\objects\46, TotalSize: 340
+File Name: D:\GotHub\FSharp\.git\objects\46\d3bde4e7ca4dc3521b131f88547417763ad6a3, Directory: 46, Extention: , Size: 270
+File Name: D:\GotHub\FSharp\.git\objects\46\f47ebe4110bbfdc37ce8d4ea5c9407ff049471, Directory: 46, Extention: , Size: 70
+Driectory Name: 48, Path: D:\GotHub\FSharp\.git\objects\48, TotalSize: 262
+File Name: D:\GotHub\FSharp\.git\objects\48\c16c2776fc8d7f415da772cbbf52dd483330da, Directory: 48, Extention: , Size: 262
+Driectory Name: 49, Path: D:\GotHub\FSharp\.git\objects\49, TotalSize: 597
+File Name: D:\GotHub\FSharp\.git\objects\49\43b5fff6636b248a8194f8024988e99301f6d4, Directory: 49, Extention: , Size: 139
+File Name: D:\GotHub\FSharp\.git\objects\49\a5af8681e8fde56443f00777f4da0faf2c6457, Directory: 49, Extention: , Size: 156
+File Name: D:\GotHub\FSharp\.git\objects\49\bd41597b288b09bca9692064696495ad5d5c4f, Directory: 49, Extention: , Size: 302
+Driectory Name: 4b, Path: D:\GotHub\FSharp\.git\objects\4b, TotalSize: 90
+File Name: D:\GotHub\FSharp\.git\objects\4b\02c3def147fe58387d1e27f1a982de2e2d7fc1, Directory: 4b, Extention: , Size: 90
+Driectory Name: 4e, Path: D:\GotHub\FSharp\.git\objects\4e, TotalSize: 31217
+File Name: D:\GotHub\FSharp\.git\objects\4e\5ddb0c3203e57af643db257f886ee0ecf68c38, Directory: 4e, Extention: , Size: 31217
+Driectory Name: 4f, Path: D:\GotHub\FSharp\.git\objects\4f, TotalSize: 21481
+File Name: D:\GotHub\FSharp\.git\objects\4f\0e5648d244e0b37c05d821ba851bffc69e4bbb, Directory: 4f, Extention: , Size: 116
+File Name: D:\GotHub\FSharp\.git\objects\4f\1f6855b272f347e7539eb837187eff0029c716, Directory: 4f, Extention: , Size: 21365
+Driectory Name: 50, Path: D:\GotHub\FSharp\.git\objects\50, TotalSize: 54
+File Name: D:\GotHub\FSharp\.git\objects\50\c97d13c38315d12d307449cb7766ab266fa183, Directory: 50, Extention: , Size: 54
+Driectory Name: 51, Path: D:\GotHub\FSharp\.git\objects\51, TotalSize: 94
+File Name: D:\GotHub\FSharp\.git\objects\51\c41c4707fbf24614e03df1e40750c978b28da4, Directory: 51, Extention: , Size: 94
+Driectory Name: 52, Path: D:\GotHub\FSharp\.git\objects\52, TotalSize: 47889
+File Name: D:\GotHub\FSharp\.git\objects\52\6f9f6598b96ff961c04ac1e1ada2c2ca2f92c9, Directory: 52, Extention: , Size: 47889
+Driectory Name: 53, Path: D:\GotHub\FSharp\.git\objects\53, TotalSize: 257
+File Name: D:\GotHub\FSharp\.git\objects\53\1ebe80f20f22ecf4becc36675ef6644a896e38, Directory: 53, Extention: , Size: 167
+File Name: D:\GotHub\FSharp\.git\objects\53\56ae3a15e9cb4c98c65107ad88d4b8abf9ae80, Directory: 53, Extention: , Size: 90
+Driectory Name: 58, Path: D:\GotHub\FSharp\.git\objects\58, TotalSize: 5055
+File Name: D:\GotHub\FSharp\.git\objects\58\ab42c85053cbcf58689735739a75b7db198f59, Directory: 58, Extention: , Size: 5055
+Driectory Name: 59, Path: D:\GotHub\FSharp\.git\objects\59, TotalSize: 3269
+File Name: D:\GotHub\FSharp\.git\objects\59\06abf001d248b0c7bf1c45a37e164b0ff84713, Directory: 59, Extention: , Size: 59
+File Name: D:\GotHub\FSharp\.git\objects\59\1d6334ff41d27d498073730d83fd4c67b29035, Directory: 59, Extention: , Size: 34
+File Name: D:\GotHub\FSharp\.git\objects\59\dace7269cb9a269c75dcf713e37598dc55b7ed, Directory: 59, Extention: , Size: 3176
+Driectory Name: 5a, Path: D:\GotHub\FSharp\.git\objects\5a, TotalSize: 1241
+File Name: D:\GotHub\FSharp\.git\objects\5a\9099211553a48b839405c94c0754ec82810d1b, Directory: 5a, Extention: , Size: 1241
+Driectory Name: 5c, Path: D:\GotHub\FSharp\.git\objects\5c, TotalSize: 38
+File Name: D:\GotHub\FSharp\.git\objects\5c\43b1e45c92a5de2f9ab341bf948e1a17250b67, Directory: 5c, Extention: , Size: 38
+Driectory Name: 5d, Path: D:\GotHub\FSharp\.git\objects\5d, TotalSize: 9049
+File Name: D:\GotHub\FSharp\.git\objects\5d\cd32e8848c2ce6831e3d83ad54e73b89900622, Directory: 5d, Extention: , Size: 45
+File Name: D:\GotHub\FSharp\.git\objects\5d\e123b472d9eb1af9a0e66926304571f6e5aeae, Directory: 5d, Extention: , Size: 9004
+Driectory Name: 5e, Path: D:\GotHub\FSharp\.git\objects\5e, TotalSize: 350
+File Name: D:\GotHub\FSharp\.git\objects\5e\2253b6e38b14db96d7051544a858e324a4db14, Directory: 5e, Extention: , Size: 256
+File Name: D:\GotHub\FSharp\.git\objects\5e\4d1641864152fda7d5bc857f68b3907d16660c, Directory: 5e, Extention: , Size: 94
+Driectory Name: 5f, Path: D:\GotHub\FSharp\.git\objects\5f, TotalSize: 1184
+File Name: D:\GotHub\FSharp\.git\objects\5f\46b6503ca7a31668ea3dd07d74e82a7e489301, Directory: 5f, Extention: , Size: 1184
+Driectory Name: 60, Path: D:\GotHub\FSharp\.git\objects\60, TotalSize: 46
+File Name: D:\GotHub\FSharp\.git\objects\60\ec72bbb7e71734d954ea962502e92a6cecd8d1, Directory: 60, Extention: , Size: 46
+Driectory Name: 62, Path: D:\GotHub\FSharp\.git\objects\62, TotalSize: 21761
+File Name: D:\GotHub\FSharp\.git\objects\62\32da27d6cc1561caf28ae5690c029cbe44d596, Directory: 62, Extention: , Size: 21761
+Driectory Name: 65, Path: D:\GotHub\FSharp\.git\objects\65, TotalSize: 6280
+File Name: D:\GotHub\FSharp\.git\objects\65\b359ef721788bcf1b4547a968f2032c572dd1f, Directory: 65, Extention: , Size: 6280
+Driectory Name: 67, Path: D:\GotHub\FSharp\.git\objects\67, TotalSize: 45
+File Name: D:\GotHub\FSharp\.git\objects\67\b55275ccab62e574e7357f9a6b42a0c090c1c1, Directory: 67, Extention: , Size: 45
+Driectory Name: 68, Path: D:\GotHub\FSharp\.git\objects\68, TotalSize: 735
+File Name: D:\GotHub\FSharp\.git\objects\68\63aac794365cf3cfacb6f06f9e4ca0d7aecbf2, Directory: 68, Extention: , Size: 172
+File Name: D:\GotHub\FSharp\.git\objects\68\bedbf4ddea9a935f2e05c0d0fb149568367e70, Directory: 68, Extention: , Size: 563
+Driectory Name: 69, Path: D:\GotHub\FSharp\.git\objects\69, TotalSize: 155
+File Name: D:\GotHub\FSharp\.git\objects\69\31eec83cc8d6badb0be291cfde135de59dea6d, Directory: 69, Extention: , Size: 155
+Driectory Name: 6d, Path: D:\GotHub\FSharp\.git\objects\6d, TotalSize: 182015
+File Name: D:\GotHub\FSharp\.git\objects\6d\0ecce6998426cf2dcd8b27b45d6bbae5e9f79b, Directory: 6d, Extention: , Size: 679
+File Name: D:\GotHub\FSharp\.git\objects\6d\3b9804876ee1e9ac4e07500f176ab83796de45, Directory: 6d, Extention: , Size: 49
+File Name: D:\GotHub\FSharp\.git\objects\6d\84df748978c2d232982c736f768da70f05b303, Directory: 6d, Extention: , Size: 180600
+File Name: D:\GotHub\FSharp\.git\objects\6d\ce6770158f7971c968f6ecc46b8e31fc11bae2, Directory: 6d, Extention: , Size: 687
+Driectory Name: 73, Path: D:\GotHub\FSharp\.git\objects\73, TotalSize: 153
+File Name: D:\GotHub\FSharp\.git\objects\73\1f6de6c291e303814b02808f34140fe560e8e4, Directory: 73, Extention: , Size: 153
+Driectory Name: 74, Path: D:\GotHub\FSharp\.git\objects\74, TotalSize: 1916
+File Name: D:\GotHub\FSharp\.git\objects\74\79e8251f6a4675d1adf9390a2f9906e3568f48, Directory: 74, Extention: , Size: 1916
+Driectory Name: 75, Path: D:\GotHub\FSharp\.git\objects\75, TotalSize: 20087
+File Name: D:\GotHub\FSharp\.git\objects\75\39796a0bb7f9a71acc96b5a08f1c13c38399ff, Directory: 75, Extention: , Size: 20087
+Driectory Name: 76, Path: D:\GotHub\FSharp\.git\objects\76, TotalSize: 2720
+File Name: D:\GotHub\FSharp\.git\objects\76\62277d584f93017e42dcbedbf509f31b88cf03, Directory: 76, Extention: , Size: 2720
+Driectory Name: 77, Path: D:\GotHub\FSharp\.git\objects\77, TotalSize: 521
+File Name: D:\GotHub\FSharp\.git\objects\77\ee97bdda6584808447e9b29c1bce55677cc91d, Directory: 77, Extention: , Size: 521
+Driectory Name: 78, Path: D:\GotHub\FSharp\.git\objects\78, TotalSize: 35465
+File Name: D:\GotHub\FSharp\.git\objects\78\13025977664987332608adec0e89ed84e61c34, Directory: 78, Extention: , Size: 2776
+File Name: D:\GotHub\FSharp\.git\objects\78\5b1f554199b4605f819d467c516ea644fc5078, Directory: 78, Extention: , Size: 32689
+Driectory Name: 7a, Path: D:\GotHub\FSharp\.git\objects\7a, TotalSize: 3150
+File Name: D:\GotHub\FSharp\.git\objects\7a\e8ef014a376abf1a306e10e94e1f7b25d136b9, Directory: 7a, Extention: , Size: 3150
+Driectory Name: 7b, Path: D:\GotHub\FSharp\.git\objects\7b, TotalSize: 262
+File Name: D:\GotHub\FSharp\.git\objects\7b\90ebe5d08e5719a4e313d555d765dd8e8db566, Directory: 7b, Extention: , Size: 262
+Driectory Name: 7c, Path: D:\GotHub\FSharp\.git\objects\7c, TotalSize: 681
+File Name: D:\GotHub\FSharp\.git\objects\7c\00a8296d53f1b898b5a865ad911ffca94fee85, Directory: 7c, Extention: , Size: 681
+Driectory Name: 7e, Path: D:\GotHub\FSharp\.git\objects\7e, TotalSize: 31247
+File Name: D:\GotHub\FSharp\.git\objects\7e\6dfcc62bb4dbb7b9e0bd6a3f796f5ecbfdea88, Directory: 7e, Extention: , Size: 21271
+File Name: D:\GotHub\FSharp\.git\objects\7e\ef1144967e22e138b8d27d920622818b2b0602, Directory: 7e, Extention: , Size: 9976
+Driectory Name: 7f, Path: D:\GotHub\FSharp\.git\objects\7f, TotalSize: 16677
+File Name: D:\GotHub\FSharp\.git\objects\7f\9cf401f9412f2c7179e08bdc6ffb8c9eddf505, Directory: 7f, Extention: , Size: 16677
+Driectory Name: 81, Path: D:\GotHub\FSharp\.git\objects\81, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\81\82a16752d05c4e8de4b6e124ced18f7fb60a5d, Directory: 81, Extention: , Size: 70
+Driectory Name: 82, Path: D:\GotHub\FSharp\.git\objects\82, TotalSize: 219
+File Name: D:\GotHub\FSharp\.git\objects\82\6635699c298a59f7db79f52c8fbcfa0b72ea7c, Directory: 82, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\82\864c95806e49a81c8c300e00d2c85eaae114a4, Directory: 82, Extention: , Size: 149
+Driectory Name: 84, Path: D:\GotHub\FSharp\.git\objects\84, TotalSize: 118229
+File Name: D:\GotHub\FSharp\.git\objects\84\1d8887eef8095c2a94f31d45fb24f9195809dd, Directory: 84, Extention: , Size: 57
+File Name: D:\GotHub\FSharp\.git\objects\84\ac8e5ce1dc2709c7b4deb5fd2bebd03693df96, Directory: 84, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\84\c04ee6aa3ca6a423f6c2538c4535bad90f63fe, Directory: 84, Extention: , Size: 118102
+Driectory Name: 85, Path: D:\GotHub\FSharp\.git\objects\85, TotalSize: 435
+File Name: D:\GotHub\FSharp\.git\objects\85\4c2fd2ea5363ead3e1439c72e5e75ff842d821, Directory: 85, Extention: , Size: 435
+Driectory Name: 86, Path: D:\GotHub\FSharp\.git\objects\86, TotalSize: 24038
+File Name: D:\GotHub\FSharp\.git\objects\86\4103cf10d111abb13195528868b8310dfb466e, Directory: 86, Extention: , Size: 1274
+File Name: D:\GotHub\FSharp\.git\objects\86\7bb9813a901288bab7e79459e95bd4dec66784, Directory: 86, Extention: , Size: 21888
+File Name: D:\GotHub\FSharp\.git\objects\86\eec0388391b4786af8716a4f0312152047d6f0, Directory: 86, Extention: , Size: 876
+Driectory Name: 87, Path: D:\GotHub\FSharp\.git\objects\87, TotalSize: 19631
+File Name: D:\GotHub\FSharp\.git\objects\87\3de3eb8b12342f290132f4e912820e604b3e5f, Directory: 87, Extention: , Size: 553
+File Name: D:\GotHub\FSharp\.git\objects\87\3f1bfdf05590eb1815eda208c0db2f6a79eec1, Directory: 87, Extention: , Size: 19019
+File Name: D:\GotHub\FSharp\.git\objects\87\c8c2aa3267cfda01224fdb51f76a3a398de22a, Directory: 87, Extention: , Size: 59
+Driectory Name: 88, Path: D:\GotHub\FSharp\.git\objects\88, TotalSize: 7105
+File Name: D:\GotHub\FSharp\.git\objects\88\5f2dc49db098c8cdd985362345e694ac25c86c, Directory: 88, Extention: , Size: 292
+File Name: D:\GotHub\FSharp\.git\objects\88\8522ac89b36209ec95e0fe78af56b32166b5b4, Directory: 88, Extention: , Size: 6813
+Driectory Name: 89, Path: D:\GotHub\FSharp\.git\objects\89, TotalSize: 21148
+File Name: D:\GotHub\FSharp\.git\objects\89\cd78c2cb3ea3dc0372b047a3f666524e81d4e9, Directory: 89, Extention: , Size: 21148
+Driectory Name: 8a, Path: D:\GotHub\FSharp\.git\objects\8a, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\8a\a98a7072516013923f9b58380ba3d83ea0bee8, Directory: 8a, Extention: , Size: 70
+Driectory Name: 8b, Path: D:\GotHub\FSharp\.git\objects\8b, TotalSize: 3282
+File Name: D:\GotHub\FSharp\.git\objects\8b\99451ba7dd8a653940328006e4cf8a9423c66b, Directory: 8b, Extention: , Size: 3212
+File Name: D:\GotHub\FSharp\.git\objects\8b\c1edfb876139dd28634b61e88847506fcecd9d, Directory: 8b, Extention: , Size: 70
+Driectory Name: 8c, Path: D:\GotHub\FSharp\.git\objects\8c, TotalSize: 82
+File Name: D:\GotHub\FSharp\.git\objects\8c\1684d528f8b379a59b89330139675f3654da91, Directory: 8c, Extention: , Size: 82
+Driectory Name: 8d, Path: D:\GotHub\FSharp\.git\objects\8d, TotalSize: 19600
+File Name: D:\GotHub\FSharp\.git\objects\8d\146bf3a9f22f87a9ee7388c0fe96f508331ee5, Directory: 8d, Extention: , Size: 319
+File Name: D:\GotHub\FSharp\.git\objects\8d\30246fc1383e3f0b842e4853b14f4393f30ee4, Directory: 8d, Extention: , Size: 51
+File Name: D:\GotHub\FSharp\.git\objects\8d\cf0bb6538231ed86ccea66281da02b40c814d9, Directory: 8d, Extention: , Size: 19230
+Driectory Name: 8f, Path: D:\GotHub\FSharp\.git\objects\8f, TotalSize: 79100
+File Name: D:\GotHub\FSharp\.git\objects\8f\4a60d26b3e04094939dc95f2082e98b97d773a, Directory: 8f, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\8f\95051a62554cdbe028b88392305bf7eca2d193, Directory: 8f, Extention: , Size: 79030
+Driectory Name: 90, Path: D:\GotHub\FSharp\.git\objects\90, TotalSize: 37547
+File Name: D:\GotHub\FSharp\.git\objects\90\020330108f26569ab4dde2e232bb9421d0f027, Directory: 90, Extention: , Size: 37393
+File Name: D:\GotHub\FSharp\.git\objects\90\43643b4fd3423c8ccc4e93830ed2c7fa957d8e, Directory: 90, Extention: , Size: 154
+Driectory Name: 91, Path: D:\GotHub\FSharp\.git\objects\91, TotalSize: 206
+File Name: D:\GotHub\FSharp\.git\objects\91\12c75cc5c0eeaca0287de7e3e8fb3460b113f0, Directory: 91, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\91\ee855d4958fa690fc6848e284b4923d8df5f49, Directory: 91, Extention: , Size: 136
+Driectory Name: 92, Path: D:\GotHub\FSharp\.git\objects\92, TotalSize: 21365
+File Name: D:\GotHub\FSharp\.git\objects\92\a11a880fdf6bf13befc24fd65daf15c2e562d5, Directory: 92, Extention: , Size: 21365
+Driectory Name: 94, Path: D:\GotHub\FSharp\.git\objects\94, TotalSize: 1039773
+File Name: D:\GotHub\FSharp\.git\objects\94\60839015ec79cd9462575166921b41db3d6843, Directory: 94, Extention: , Size: 117875
+File Name: D:\GotHub\FSharp\.git\objects\94\850d1c9ec21ce2ed96079904b98124e2d17826, Directory: 94, Extention: , Size: 21225
+File Name: D:\GotHub\FSharp\.git\objects\94\ba345b99a754378b6a972ce60b0c0473c79729, Directory: 94, Extention: , Size: 869658
+File Name: D:\GotHub\FSharp\.git\objects\94\e55331c2379b25efefd2f5408dc6a141f4319d, Directory: 94, Extention: , Size: 31015
+Driectory Name: 96, Path: D:\GotHub\FSharp\.git\objects\96, TotalSize: 20585
+File Name: D:\GotHub\FSharp\.git\objects\96\4f8851a6d81c8029e5b293305a5fb6107cac62, Directory: 96, Extention: , Size: 20515
+File Name: D:\GotHub\FSharp\.git\objects\96\deb0d5ac25fd7b5296aca4930c1576d8356958, Directory: 96, Extention: , Size: 70
+Driectory Name: 98, Path: D:\GotHub\FSharp\.git\objects\98, TotalSize: 677
+File Name: D:\GotHub\FSharp\.git\objects\98\4713a49622a96da110443c15477613bc12656b, Directory: 98, Extention: , Size: 677
+Driectory Name: 9a, Path: D:\GotHub\FSharp\.git\objects\9a, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\9a\d81d9a702da457b1c62812d720ef42cb8c7d93, Directory: 9a, Extention: , Size: 70
+Driectory Name: 9b, Path: D:\GotHub\FSharp\.git\objects\9b, TotalSize: 655
+File Name: D:\GotHub\FSharp\.git\objects\9b\93a1d61d90fa6b96d99b3663347d481c137e70, Directory: 9b, Extention: , Size: 655
+Driectory Name: 9c, Path: D:\GotHub\FSharp\.git\objects\9c, TotalSize: 148754
+File Name: D:\GotHub\FSharp\.git\objects\9c\5ab4acb53d2c6f49b4d62d67ddd8ead790752d, Directory: 9c, Extention: , Size: 45
+File Name: D:\GotHub\FSharp\.git\objects\9c\f6c8dc236b5a5257bd9b4246a221985e1f1c10, Directory: 9c, Extention: , Size: 148709
+Driectory Name: 9d, Path: D:\GotHub\FSharp\.git\objects\9d, TotalSize: 49
+File Name: D:\GotHub\FSharp\.git\objects\9d\b4f9e1ef6f82e4cbdee528c020df1937af0ae1, Directory: 9d, Extention: , Size: 49
+Driectory Name: 9e, Path: D:\GotHub\FSharp\.git\objects\9e, TotalSize: 40200
+File Name: D:\GotHub\FSharp\.git\objects\9e\23b8cd40df3e5101843bfeb12c216778b15599, Directory: 9e, Extention: , Size: 19430
+File Name: D:\GotHub\FSharp\.git\objects\9e\92c793192bd8639d60404b36e4f33159ed640b, Directory: 9e, Extention: , Size: 20577
+File Name: D:\GotHub\FSharp\.git\objects\9e\f68de5bf3e7132336bd63ab10f28abc8d0c0af, Directory: 9e, Extention: , Size: 193
+Driectory Name: a0, Path: D:\GotHub\FSharp\.git\objects\a0, TotalSize: 29633
+File Name: D:\GotHub\FSharp\.git\objects\a0\e95b6b072866ef09e18f9e3b0d9811411ec559, Directory: a0, Extention: , Size: 29633
+Driectory Name: a1, Path: D:\GotHub\FSharp\.git\objects\a1, TotalSize: 867
+File Name: D:\GotHub\FSharp\.git\objects\a1\1de549657846655c6149cf54a66185324abce2, Directory: a1, Extention: , Size: 55
+File Name: D:\GotHub\FSharp\.git\objects\a1\3d916e77fef5602560d4b7ee39333e04628973, Directory: a1, Extention: , Size: 812
+Driectory Name: a2, Path: D:\GotHub\FSharp\.git\objects\a2, TotalSize: 8903
+File Name: D:\GotHub\FSharp\.git\objects\a2\1e3b062c0efa811e3075e6a1d5f8eed305300f, Directory: a2, Extention: , Size: 8650
+File Name: D:\GotHub\FSharp\.git\objects\a2\3ae963aabc0841d0a0830015b7063351e19a6d, Directory: a2, Extention: , Size: 253
+Driectory Name: a4, Path: D:\GotHub\FSharp\.git\objects\a4, TotalSize: 19794
+File Name: D:\GotHub\FSharp\.git\objects\a4\848ac103a417e1d06626448b0982427fe10006, Directory: a4, Extention: , Size: 19633
+File Name: D:\GotHub\FSharp\.git\objects\a4\f15ca8584a50358f105fe417eeebefe6d8b0ce, Directory: a4, Extention: , Size: 161
+Driectory Name: a5, Path: D:\GotHub\FSharp\.git\objects\a5, TotalSize: 93
+File Name: D:\GotHub\FSharp\.git\objects\a5\2c1c562d9bf7192fb7464815f9cf5dfbde1e19, Directory: a5, Extention: , Size: 93
+Driectory Name: a6, Path: D:\GotHub\FSharp\.git\objects\a6, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\a6\1792be10644e37c8dcaa9b3d7477d4f0b17412, Directory: a6, Extention: , Size: 70
+Driectory Name: a7, Path: D:\GotHub\FSharp\.git\objects\a7, TotalSize: 130
+File Name: D:\GotHub\FSharp\.git\objects\a7\b71ddce286665630aa1a8cb1d02072dcf30056, Directory: a7, Extention: , Size: 130
+Driectory Name: a8, Path: D:\GotHub\FSharp\.git\objects\a8, TotalSize: 57
+File Name: D:\GotHub\FSharp\.git\objects\a8\b8ec87a4ed28f33564a5d8baea654ff77d0b97, Directory: a8, Extention: , Size: 57
+Driectory Name: a9, Path: D:\GotHub\FSharp\.git\objects\a9, TotalSize: 823
+File Name: D:\GotHub\FSharp\.git\objects\a9\66ccf6dc050bf2ee53ebbe96d010b504012581, Directory: a9, Extention: , Size: 823
+Driectory Name: aa, Path: D:\GotHub\FSharp\.git\objects\aa, TotalSize: 438
+File Name: D:\GotHub\FSharp\.git\objects\aa\39ee3817688cb77bcc4141c352a5b712873b3b, Directory: aa, Extention: , Size: 231
+File Name: D:\GotHub\FSharp\.git\objects\aa\73bb141ac9231ab46a2abfb139fdd189e45ea1, Directory: aa, Extention: , Size: 207
+Driectory Name: ad, Path: D:\GotHub\FSharp\.git\objects\ad, TotalSize: 21235
+File Name: D:\GotHub\FSharp\.git\objects\ad\764daa91273e9ee2c2788990c39fe735a16bbf, Directory: ad, Extention: , Size: 21235
+Driectory Name: ae, Path: D:\GotHub\FSharp\.git\objects\ae, TotalSize: 26342
+File Name: D:\GotHub\FSharp\.git\objects\ae\2de6ccd8b7f699911b26283bda26b3054f08b5, Directory: ae, Extention: , Size: 5852
+File Name: D:\GotHub\FSharp\.git\objects\ae\4c80aa405f6a029c53a464a96e2177e4a436b4, Directory: ae, Extention: , Size: 20490
+Driectory Name: af, Path: D:\GotHub\FSharp\.git\objects\af, TotalSize: 20996
+File Name: D:\GotHub\FSharp\.git\objects\af\220ec5a07daeb3410d5941e9a78e6e5089f2fb, Directory: af, Extention: , Size: 20996
+Driectory Name: b0, Path: D:\GotHub\FSharp\.git\objects\b0, TotalSize: 217
+File Name: D:\GotHub\FSharp\.git\objects\b0\c73b0c3db5e9c42aef559b3761123f52c27802, Directory: b0, Extention: , Size: 217
+Driectory Name: b1, Path: D:\GotHub\FSharp\.git\objects\b1, TotalSize: 55
+File Name: D:\GotHub\FSharp\.git\objects\b1\f69bffb6990feda327e0c610ad43d9dbf0def5, Directory: b1, Extention: , Size: 55
+Driectory Name: b2, Path: D:\GotHub\FSharp\.git\objects\b2, TotalSize: 155
+File Name: D:\GotHub\FSharp\.git\objects\b2\5dc05484a8a99a026c31fba4381b91516457e9, Directory: b2, Extention: , Size: 155
+Driectory Name: b5, Path: D:\GotHub\FSharp\.git\objects\b5, TotalSize: 57
+File Name: D:\GotHub\FSharp\.git\objects\b5\d50417df32a041f910b832bd7859c8f291e57a, Directory: b5, Extention: , Size: 57
+Driectory Name: b7, Path: D:\GotHub\FSharp\.git\objects\b7, TotalSize: 32609
+File Name: D:\GotHub\FSharp\.git\objects\b7\cb4f7cdc94be9fa1271b550196b1f8253c9e0c, Directory: b7, Extention: , Size: 32609
+Driectory Name: b8, Path: D:\GotHub\FSharp\.git\objects\b8, TotalSize: 38852
+File Name: D:\GotHub\FSharp\.git\objects\b8\3461a828eae2a64d09148b7aba6ef99a2e5bb4, Directory: b8, Extention: , Size: 38430
+File Name: D:\GotHub\FSharp\.git\objects\b8\6de44c6f1dd15bc53a064cffdb62015223a441, Directory: b8, Extention: , Size: 130
+File Name: D:\GotHub\FSharp\.git\objects\b8\a44a3750a61b4518ad75294e8a7553cfab008d, Directory: b8, Extention: , Size: 292
+Driectory Name: b9, Path: D:\GotHub\FSharp\.git\objects\b9, TotalSize: 112692
+File Name: D:\GotHub\FSharp\.git\objects\b9\db68b1822a4457fe70ef9a804aa7a853e2705f, Directory: b9, Extention: , Size: 112692
+Driectory Name: ba, Path: D:\GotHub\FSharp\.git\objects\ba, TotalSize: 4682
+File Name: D:\GotHub\FSharp\.git\objects\ba\603659d19325914168c0512e7403eb318c35b2, Directory: ba, Extention: , Size: 4682
+Driectory Name: bb, Path: D:\GotHub\FSharp\.git\objects\bb, TotalSize: 219
+File Name: D:\GotHub\FSharp\.git\objects\bb\0053f3132d11b98eb224065e5a081de102d06e, Directory: bb, Extention: , Size: 219
+Driectory Name: bc, Path: D:\GotHub\FSharp\.git\objects\bc, TotalSize: 6226
+File Name: D:\GotHub\FSharp\.git\objects\bc\b5b4807cc31c9d4d0d6273f392ee7b7f6ebb3b, Directory: bc, Extention: , Size: 94
+File Name: D:\GotHub\FSharp\.git\objects\bc\de5267fc112444efc2b5f1c94ead6ae52e7f8d, Directory: bc, Extention: , Size: 6078
+File Name: D:\GotHub\FSharp\.git\objects\bc\fb02c3eac1c9ccc5aea634a256fbb805424662, Directory: bc, Extention: , Size: 54
+Driectory Name: bf, Path: D:\GotHub\FSharp\.git\objects\bf, TotalSize: 32854
+File Name: D:\GotHub\FSharp\.git\objects\bf\63f1008bb44f526f18817491e054c85821f942, Directory: bf, Extention: , Size: 49
+File Name: D:\GotHub\FSharp\.git\objects\bf\d7e576fe8e4dbb09c2c6cab8860665ca8cb394, Directory: bf, Extention: , Size: 69
+File Name: D:\GotHub\FSharp\.git\objects\bf\f4559f374bdcfdf0430d91a6d9205e63326680, Directory: bf, Extention: , Size: 32736
+Driectory Name: c0, Path: D:\GotHub\FSharp\.git\objects\c0, TotalSize: 49
+File Name: D:\GotHub\FSharp\.git\objects\c0\bbe7812ac0b9b81f8bf75c668435741477cfaa, Directory: c0, Extention: , Size: 49
+Driectory Name: c1, Path: D:\GotHub\FSharp\.git\objects\c1, TotalSize: 183459
+File Name: D:\GotHub\FSharp\.git\objects\c1\159498639efcd5122a5576d7fb6e3e1d7fe924, Directory: c1, Extention: , Size: 183342
+File Name: D:\GotHub\FSharp\.git\objects\c1\4cd18a6188ecb275c1e186e27a3156295fe388, Directory: c1, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\c1\d7180eb53f9e8bc592e8ffcae2da8ad1bc0e23, Directory: c1, Extention: , Size: 47
+Driectory Name: c3, Path: D:\GotHub\FSharp\.git\objects\c3, TotalSize: 21774
+File Name: D:\GotHub\FSharp\.git\objects\c3\a9a266c994cbaeb6c8171efeed9c2c6238a2a6, Directory: c3, Extention: , Size: 21774
+Driectory Name: c4, Path: D:\GotHub\FSharp\.git\objects\c4, TotalSize: 53
+File Name: D:\GotHub\FSharp\.git\objects\c4\c1c8a4eda27194992cda1e168d9cf89fab91b7, Directory: c4, Extention: , Size: 53
+Driectory Name: c9, Path: D:\GotHub\FSharp\.git\objects\c9, TotalSize: 1592
+File Name: D:\GotHub\FSharp\.git\objects\c9\f710b5913009e4051e86598bddc837dce18c78, Directory: c9, Extention: , Size: 1592
+Driectory Name: cc, Path: D:\GotHub\FSharp\.git\objects\cc, TotalSize: 21022
+File Name: D:\GotHub\FSharp\.git\objects\cc\d1a0e623ed93383551ac30c85e57859815a69a, Directory: cc, Extention: , Size: 21022
+Driectory Name: cd, Path: D:\GotHub\FSharp\.git\objects\cd, TotalSize: 407
+File Name: D:\GotHub\FSharp\.git\objects\cd\10448ad1324fd3bb22e4a6ae377b3238e54a91, Directory: cd, Extention: , Size: 407
+Driectory Name: ce, Path: D:\GotHub\FSharp\.git\objects\ce, TotalSize: 11205
+File Name: D:\GotHub\FSharp\.git\objects\ce\e38edbd2f52aa4f8ece1a4ab29701dc5791566, Directory: ce, Extention: , Size: 11205
+Driectory Name: d0, Path: D:\GotHub\FSharp\.git\objects\d0, TotalSize: 49
+File Name: D:\GotHub\FSharp\.git\objects\d0\6b8a22a3817100111fca332f60978df237e9e2, Directory: d0, Extention: , Size: 49
+Driectory Name: d1, Path: D:\GotHub\FSharp\.git\objects\d1, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\d1\948367eac9d98ad0301fd3cc288db86001a119, Directory: d1, Extention: , Size: 70
+Driectory Name: d2, Path: D:\GotHub\FSharp\.git\objects\d2, TotalSize: 20527
+File Name: D:\GotHub\FSharp\.git\objects\d2\d7e09dc06f82864d09dd122972e5e00d3eb4b4, Directory: d2, Extention: , Size: 20527
+Driectory Name: d4, Path: D:\GotHub\FSharp\.git\objects\d4, TotalSize: 108
+File Name: D:\GotHub\FSharp\.git\objects\d4\013e8f16071889e180f10315d7f3acd20bdfa0, Directory: d4, Extention: , Size: 58
+File Name: D:\GotHub\FSharp\.git\objects\d4\147d724f25bd10d4db8a1556237c2dd4c8478d, Directory: d4, Extention: , Size: 50
+Driectory Name: d6, Path: D:\GotHub\FSharp\.git\objects\d6, TotalSize: 113041
+File Name: D:\GotHub\FSharp\.git\objects\d6\fbc0ff8439bb47e21ca8c631062109ac584451, Directory: d6, Extention: , Size: 113041
+Driectory Name: d7, Path: D:\GotHub\FSharp\.git\objects\d7, TotalSize: 3820
+File Name: D:\GotHub\FSharp\.git\objects\d7\10f10bf287bc8caff361074bb79915a7737a65, Directory: d7, Extention: , Size: 3455
+File Name: D:\GotHub\FSharp\.git\objects\d7\7f93070c3626db4b3fd91aa867256c5e3acbc9, Directory: d7, Extention: , Size: 69
+File Name: D:\GotHub\FSharp\.git\objects\d7\c7892289bf66f968e8bd2cc03484997dc93a4c, Directory: d7, Extention: , Size: 296
+Driectory Name: da, Path: D:\GotHub\FSharp\.git\objects\da, TotalSize: 1196
+File Name: D:\GotHub\FSharp\.git\objects\da\b7ca5114fc0d1ba9c07040ef9d5f1b201c96b1, Directory: da, Extention: , Size: 1196
+Driectory Name: db, Path: D:\GotHub\FSharp\.git\objects\db, TotalSize: 628
+File Name: D:\GotHub\FSharp\.git\objects\db\7ae1bb2386c2d35407e307835387dd616422da, Directory: db, Extention: , Size: 628
+Driectory Name: dc, Path: D:\GotHub\FSharp\.git\objects\dc, TotalSize: 1205
+File Name: D:\GotHub\FSharp\.git\objects\dc\ce3b71bcca8a5965b13a25df709809ddc6c262, Directory: dc, Extention: , Size: 1205
+Driectory Name: dd, Path: D:\GotHub\FSharp\.git\objects\dd, TotalSize: 70
+File Name: D:\GotHub\FSharp\.git\objects\dd\386a75f9c8ccb4985e17a39cb2d15e0a462b17, Directory: dd, Extention: , Size: 70
+Driectory Name: df, Path: D:\GotHub\FSharp\.git\objects\df, TotalSize: 45
+File Name: D:\GotHub\FSharp\.git\objects\df\82a410671ace1eec32077d8964319cd3808bbf, Directory: df, Extention: , Size: 45
+Driectory Name: e0, Path: D:\GotHub\FSharp\.git\objects\e0, TotalSize: 1256
+File Name: D:\GotHub\FSharp\.git\objects\e0\118dd0dacce079e513f755376eb80af8d679a9, Directory: e0, Extention: , Size: 1256
+Driectory Name: e2, Path: D:\GotHub\FSharp\.git\objects\e2, TotalSize: 8999
+File Name: D:\GotHub\FSharp\.git\objects\e2\7ea35b9c4f57dffa90e1b8c6d48a0a5d73032d, Directory: e2, Extention: , Size: 2937
+File Name: D:\GotHub\FSharp\.git\objects\e2\e105d3219eebb292f0238cccdc5b2daf1a915a, Directory: e2, Extention: , Size: 6062
+Driectory Name: e3, Path: D:\GotHub\FSharp\.git\objects\e3, TotalSize: 6452
+File Name: D:\GotHub\FSharp\.git\objects\e3\d8535213daf498472fad6ba0db5281c68f60a1, Directory: e3, Extention: , Size: 6452
+Driectory Name: e4, Path: D:\GotHub\FSharp\.git\objects\e4, TotalSize: 145201
+File Name: D:\GotHub\FSharp\.git\objects\e4\aac2cc2a3fffc72217e1104e65c313deccdee7, Directory: e4, Extention: , Size: 145201
+Driectory Name: e5, Path: D:\GotHub\FSharp\.git\objects\e5, TotalSize: 428
+File Name: D:\GotHub\FSharp\.git\objects\e5\dbc5999cf9e5da88b7e23f4fea76ef605819fa, Directory: e5, Extention: , Size: 428
+Driectory Name: e6, Path: D:\GotHub\FSharp\.git\objects\e6, TotalSize: 140
+File Name: D:\GotHub\FSharp\.git\objects\e6\0985eecd7db38574592fca936c0388cdde7e96, Directory: e6, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391, Directory: e6, Extention: , Size: 15
+File Name: D:\GotHub\FSharp\.git\objects\e6\c0efd61ac681b4832f81f6ccbe764d92b66b60, Directory: e6, Extention: , Size: 55
+Driectory Name: e7, Path: D:\GotHub\FSharp\.git\objects\e7, TotalSize: 150352
+File Name: D:\GotHub\FSharp\.git\objects\e7\69375957d311c1c80ae38586220c0b2a34000b, Directory: e7, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\e7\79e00f9ac3298fdcafdab2cae3f5d8ff04db88, Directory: e7, Extention: , Size: 150282
+Driectory Name: e8, Path: D:\GotHub\FSharp\.git\objects\e8, TotalSize: 617
+File Name: D:\GotHub\FSharp\.git\objects\e8\0738946b4b7eac60040444dff8a2dd1fc558c4, Directory: e8, Extention: , Size: 617
+Driectory Name: e9, Path: D:\GotHub\FSharp\.git\objects\e9, TotalSize: 8667
+File Name: D:\GotHub\FSharp\.git\objects\e9\91736f197ce19ac5402e12e39dd1210ed2c7c2, Directory: e9, Extention: , Size: 294
+File Name: D:\GotHub\FSharp\.git\objects\e9\b587a0eeebfdfb860eaf40040848f662bedc7d, Directory: e9, Extention: , Size: 38
+File Name: D:\GotHub\FSharp\.git\objects\e9\d0c7ca4407f39f3c99838229177344547b24b6, Directory: e9, Extention: , Size: 8335
+Driectory Name: ea, Path: D:\GotHub\FSharp\.git\objects\ea, TotalSize: 4115
+File Name: D:\GotHub\FSharp\.git\objects\ea\515260cd7619527cee01b57ad9dc92398baf57, Directory: ea, Extention: , Size: 94
+File Name: D:\GotHub\FSharp\.git\objects\ea\9fd7242adf680c83d242246e137ecc6d0de49b, Directory: ea, Extention: , Size: 4021
+Driectory Name: ee, Path: D:\GotHub\FSharp\.git\objects\ee, TotalSize: 888
+File Name: D:\GotHub\FSharp\.git\objects\ee\3731daf1a921ae4e818a8a5b21d739debf3447, Directory: ee, Extention: , Size: 888
+Driectory Name: ef, Path: D:\GotHub\FSharp\.git\objects\ef, TotalSize: 2553
+File Name: D:\GotHub\FSharp\.git\objects\ef\24c58722a741ac30a396f95c844942886f62e6, Directory: ef, Extention: , Size: 2092
+File Name: D:\GotHub\FSharp\.git\objects\ef\65d43ac31508e11ddfed5c917b25b5ca77efb0, Directory: ef, Extention: , Size: 461
+Driectory Name: f1, Path: D:\GotHub\FSharp\.git\objects\f1, TotalSize: 22606
+File Name: D:\GotHub\FSharp\.git\objects\f1\f2a79e600b16dc299b29d951122f4e69c53960, Directory: f1, Extention: , Size: 22606
+Driectory Name: f2, Path: D:\GotHub\FSharp\.git\objects\f2, TotalSize: 2797820
+File Name: D:\GotHub\FSharp\.git\objects\f2\cb7b3733a81a977946e14d784d669edb240a2a, Directory: f2, Extention: , Size: 7871
+File Name: D:\GotHub\FSharp\.git\objects\f2\f859a18d7d74de095297044d7667e4de1d36da, Directory: f2, Extention: , Size: 2789949
+Driectory Name: f3, Path: D:\GotHub\FSharp\.git\objects\f3, TotalSize: 51
+File Name: D:\GotHub\FSharp\.git\objects\f3\6832e6820f9b6df3c29e662a1d84ffd8fa2480, Directory: f3, Extention: , Size: 51
+Driectory Name: f4, Path: D:\GotHub\FSharp\.git\objects\f4, TotalSize: 216
+File Name: D:\GotHub\FSharp\.git\objects\f4\7ac2c7a027a5e06db655e5c8e29c978168ae7e, Directory: f4, Extention: , Size: 57
+File Name: D:\GotHub\FSharp\.git\objects\f4\982161f2168ba09dda3ceda5445491637c51b3, Directory: f4, Extention: , Size: 159
+Driectory Name: f5, Path: D:\GotHub\FSharp\.git\objects\f5, TotalSize: 183709
+File Name: D:\GotHub\FSharp\.git\objects\f5\6fdb4e785cb1ab771e5858ce1522f6a70b37c3, Directory: f5, Extention: , Size: 183709
+Driectory Name: f8, Path: D:\GotHub\FSharp\.git\objects\f8, TotalSize: 328
+File Name: D:\GotHub\FSharp\.git\objects\f8\ea67e9ffd1bfff941055c6e247a6ba328c959f, Directory: f8, Extention: , Size: 328
+Driectory Name: f9, Path: D:\GotHub\FSharp\.git\objects\f9, TotalSize: 21121
+File Name: D:\GotHub\FSharp\.git\objects\f9\34d6118ba6f8b4f6c3c8fa7c0cf8facfa986ca, Directory: f9, Extention: , Size: 20993
+File Name: D:\GotHub\FSharp\.git\objects\f9\b5b17a2063be8a4acd6854be0147809332f0c9, Directory: f9, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\f9\e38c1ca4b094dfc3bd359820da99b9f7955a14, Directory: f9, Extention: , Size: 58
+Driectory Name: fa, Path: D:\GotHub\FSharp\.git\objects\fa, TotalSize: 2212
+File Name: D:\GotHub\FSharp\.git\objects\fa\3b4ad4762f0a58de3f8ba804a569dd41dd8def, Directory: fa, Extention: , Size: 70
+File Name: D:\GotHub\FSharp\.git\objects\fa\b02887ce4330ee08eb2d7d2a238cd959c85c5a, Directory: fa, Extention: , Size: 2142
+Driectory Name: fb, Path: D:\GotHub\FSharp\.git\objects\fb, TotalSize: 1256
+File Name: D:\GotHub\FSharp\.git\objects\fb\bb24dec24facff788688e5697775773b36e022, Directory: fb, Extention: , Size: 1256
+Driectory Name: fc, Path: D:\GotHub\FSharp\.git\objects\fc, TotalSize: 186
+File Name: D:\GotHub\FSharp\.git\objects\fc\65de4086271bd7311f6b7745278d333dec0855, Directory: fc, Extention: , Size: 186
+Driectory Name: fd, Path: D:\GotHub\FSharp\.git\objects\fd, TotalSize: 47
+File Name: D:\GotHub\FSharp\.git\objects\fd\20e5f2438f836abb6b88af5476a846049cd948, Directory: fd, Extention: , Size: 47
+Driectory Name: info, Path: D:\GotHub\FSharp\.git\objects\info, TotalSize: 0
+Driectory Name: pack, Path: D:\GotHub\FSharp\.git\objects\pack, TotalSize: 0
+Driectory Name: refs, Path: D:\GotHub\FSharp\.git\refs, TotalSize: 0
+Driectory Name: heads, Path: D:\GotHub\FSharp\.git\refs\heads, TotalSize: 41
+File Name: D:\GotHub\FSharp\.git\refs\heads\master, Directory: heads, Extention: , Size: 41
+Driectory Name: remotes, Path: D:\GotHub\FSharp\.git\refs\remotes, TotalSize: 0
+Driectory Name: origin, Path: D:\GotHub\FSharp\.git\refs\remotes\origin, TotalSize: 41
+File Name: D:\GotHub\FSharp\.git\refs\remotes\origin\master, Directory: origin, Extention: , Size: 41
+Driectory Name: tags, Path: D:\GotHub\FSharp\.git\refs\tags, TotalSize: 0
+Driectory Name: Examples, Path: D:\GotHub\FSharp\Examples, TotalSize: 503406
+File Name: D:\GotHub\FSharp\Examples\Recap #3&4.pdf, Directory: Examples, Extention: .pdf, Size: 169859
+File Name: D:\GotHub\FSharp\Examples\Recap#1.pdf, Directory: Examples, Extention: .pdf, Size: 169368
+File Name: D:\GotHub\FSharp\Examples\Recap#2.pdf, Directory: Examples, Extention: .pdf, Size: 164179
+Driectory Name: Tutorial, Path: D:\GotHub\FSharp\Examples\Tutorial, TotalSize: 1123
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial.sln, Directory: Tutorial, Extention: .sln, Size: 1123
+Driectory Name: .vs, Path: D:\GotHub\FSharp\Examples\Tutorial\.vs, TotalSize: 0
+Driectory Name: Tutorial, Path: D:\GotHub\FSharp\Examples\Tutorial\.vs\Tutorial, TotalSize: 0
+Driectory Name: v15, Path: D:\GotHub\FSharp\Examples\Tutorial\.vs\Tutorial\v15, TotalSize: 36352
+File Name: D:\GotHub\FSharp\Examples\Tutorial\.vs\Tutorial\v15\.suo, Directory: v15, Extention: .suo, Size: 36352
+Driectory Name: packages, Path: D:\GotHub\FSharp\Examples\Tutorial\packages, TotalSize: 0
+Driectory Name: FSharp.Core.4.5.2, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2, TotalSize: 2847992
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\.signature.p7s, Directory: FSharp.Core.4.5.2, Extention: .p7s, Size: 9354
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\FSharp.Core.4.5.2.nupkg, Directory: FSharp.Core.4.5.2, Extention: .nupkg, Size: 2838638
+Driectory Name: lib, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib, TotalSize: 0
+Driectory Name: net45, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45, TotalSize: 4504069
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.dll, Directory: net45, Extention: .dll, Size: 2702408
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.optdata, Directory: net45, Extention: .optdata, Size: 441414
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.resources.dll, Directory: net45, Extention: .dll, Size: 21504
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.sigdata, Directory: net45, Extention: .sigdata, Size: 576703
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.xml, Directory: net45, Extention: .xml, Size: 762040
+Driectory Name: cs, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\it, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 41536
+Driectory Name: ja, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\ko, TotalSize: 43072
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 43072
+Driectory Name: pl, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\pl, TotalSize: 42056
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 42056
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\pt-BR, TotalSize: 39568
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 39568
+Driectory Name: ru, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\net45\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: netstandard1.6, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6, TotalSize: 4492096
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.dll, Directory: netstandard1.6, Extention: .dll, Size: 2707920
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.optdata, Directory: netstandard1.6, Extention: .optdata, Size: 441325
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.sigdata, Directory: netstandard1.6, Extention: .sigdata, Size: 583687
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.xml, Directory: netstandard1.6, Extention: .xml, Size: 759164
+Driectory Name: cs, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\it, TotalSize: 40080
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 40080
+Driectory Name: ja, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ko, TotalSize: 44496
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 44496
+Driectory Name: pl, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pl, TotalSize: 40584
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 40584
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pt-BR, TotalSize: 41024
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 41024
+Driectory Name: ru, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: System.ValueTuple.4.4.0, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0, TotalSize: 225306
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\LICENSE.TXT, Directory: System.ValueTuple.4.4.0, Extention: .TXT, Size: 1139
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\System.ValueTuple.4.4.0.nupkg, Directory: System.ValueTuple.4.4.0, Extention: .nupkg, Size: 212534
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\THIRD-PARTY-NOTICES.TXT, Directory: System.ValueTuple.4.4.0, Extention: .TXT, Size: 11591
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\useSharedDesignerContext.txt, Directory: System.ValueTuple.4.4.0, Extention: .txt, Size: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\version.txt, Directory: System.ValueTuple.4.4.0, Extention: .txt, Size: 42
+Driectory Name: lib, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib, TotalSize: 0
+Driectory Name: MonoAndroid10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\MonoAndroid10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\MonoAndroid10\_._, Directory: MonoAndroid10, Extention: ._, Size: 0
+Driectory Name: MonoTouch10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\MonoTouch10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\MonoTouch10\_._, Directory: MonoTouch10, Extention: ._, Size: 0
+Driectory Name: net461, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\net461, TotalSize: 282951
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll, Directory: net461, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.xml, Directory: net461, Extention: .xml, Size: 203751
+Driectory Name: net47, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\net47, TotalSize: 228527
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\net47\System.ValueTuple.dll, Directory: net47, Extention: .dll, Size: 24776
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\net47\System.ValueTuple.xml, Directory: net47, Extention: .xml, Size: 203751
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netcoreapp2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netcoreapp2.0\_._, Directory: netcoreapp2.0, Extention: ._, Size: 0
+Driectory Name: netstandard1.0, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netstandard1.0, TotalSize: 282959
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netstandard1.0\System.ValueTuple.dll, Directory: netstandard1.0, Extention: .dll, Size: 79208
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netstandard1.0\System.ValueTuple.xml, Directory: netstandard1.0, Extention: .xml, Size: 203751
+Driectory Name: netstandard2.0, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netstandard2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\netstandard2.0\_._, Directory: netstandard2.0, Extention: ._, Size: 0
+Driectory Name: portable-net40+sl4+win8+wp8, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\portable-net40+sl4+win8+wp8, TotalSize: 282951
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\portable-net40+sl4+win8+wp8\System.ValueTuple.dll, Directory: portable-net40+sl4+win8+wp8, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\portable-net40+sl4+win8+wp8\System.ValueTuple.xml, Directory: portable-net40+sl4+win8+wp8, Extention: .xml, Size: 203751
+Driectory Name: xamarinios10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarinios10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarinios10\_._, Directory: xamarinios10, Extention: ._, Size: 0
+Driectory Name: xamarinmac20, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarinmac20, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarinmac20\_._, Directory: xamarinmac20, Extention: ._, Size: 0
+Driectory Name: xamarintvos10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarintvos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarintvos10\_._, Directory: xamarintvos10, Extention: ._, Size: 0
+Driectory Name: xamarinwatchos10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarinwatchos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\lib\xamarinwatchos10\_._, Directory: xamarinwatchos10, Extention: ._, Size: 0
+Driectory Name: ref, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref, TotalSize: 0
+Driectory Name: MonoAndroid10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\MonoAndroid10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\MonoAndroid10\_._, Directory: MonoAndroid10, Extention: ._, Size: 0
+Driectory Name: MonoTouch10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\MonoTouch10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\MonoTouch10\_._, Directory: MonoTouch10, Extention: ._, Size: 0
+Driectory Name: net461, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\net461, TotalSize: 244551
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\net461\System.ValueTuple.dll, Directory: net461, Extention: .dll, Size: 40800
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\net461\System.ValueTuple.xml, Directory: net461, Extention: .xml, Size: 203751
+Driectory Name: net47, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\net47, TotalSize: 225607
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\net47\System.ValueTuple.dll, Directory: net47, Extention: .dll, Size: 21856
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\net47\System.ValueTuple.xml, Directory: net47, Extention: .xml, Size: 203751
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\netcoreapp2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\netcoreapp2.0\_._, Directory: netcoreapp2.0, Extention: ._, Size: 0
+Driectory Name: netstandard2.0, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\netstandard2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\netstandard2.0\_._, Directory: netstandard2.0, Extention: ._, Size: 0
+Driectory Name: portable-net40+sl4+win8+wp8, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\portable-net40+sl4+win8+wp8, TotalSize: 245063
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\portable-net40+sl4+win8+wp8\System.ValueTuple.dll, Directory: portable-net40+sl4+win8+wp8, Extention: .dll, Size: 41312
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\portable-net40+sl4+win8+wp8\System.ValueTuple.xml, Directory: portable-net40+sl4+win8+wp8, Extention: .xml, Size: 203751
+Driectory Name: xamarinios10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarinios10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarinios10\_._, Directory: xamarinios10, Extention: ._, Size: 0
+Driectory Name: xamarinmac20, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarinmac20, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarinmac20\_._, Directory: xamarinmac20, Extention: ._, Size: 0
+Driectory Name: xamarintvos10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarintvos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarintvos10\_._, Directory: xamarintvos10, Extention: ._, Size: 0
+Driectory Name: xamarinwatchos10, Path: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarinwatchos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\packages\System.ValueTuple.4.4.0\ref\xamarinwatchos10\_._, Directory: xamarinwatchos10, Extention: ._, Size: 0
+Driectory Name: Tutorial, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial, TotalSize: 47392
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\Examples.fsx, Directory: Tutorial, Extention: .fsx, Size: 884
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\packages.config, Directory: Tutorial, Extention: .config, Size: 218
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\Tutorial.fsproj, Directory: Tutorial, Extention: .fsproj, Size: 3707
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\Tutorial.fsx, Directory: Tutorial, Extention: .fsx, Size: 42583
+Driectory Name: bin, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin, TotalSize: 0
+Driectory Name: Debug, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug, TotalSize: 4041955
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\FSharp.Core.dll, Directory: Debug, Extention: .dll, Size: 2702408
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\FSharp.Core.xml, Directory: Debug, Extention: .xml, Size: 762040
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\System.ValueTuple.dll, Directory: Debug, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\System.ValueTuple.xml, Directory: Debug, Extention: .xml, Size: 203751
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\Tutorial.exe, Directory: Debug, Extention: .exe, Size: 125952
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\Tutorial.pdb, Directory: Debug, Extention: .pdb, Size: 136704
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\Tutorial.XML, Directory: Debug, Extention: .XML, Size: 31900
+Driectory Name: cs, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\it, TotalSize: 41536
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 41536
+Driectory Name: ja, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\ko, TotalSize: 43072
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 43072
+Driectory Name: pl, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\pl, TotalSize: 42056
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 42056
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\pt-BR, TotalSize: 39568
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 39568
+Driectory Name: ru, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\bin\Debug\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: obj, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj, TotalSize: 17555
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\fsac.cache, Directory: obj, Extention: .cache, Size: 24
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Tutorial.fsproj.CoreCompileInputs.cache, Directory: obj, Extention: .cache, Size: 42
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Tutorial.fsprojAssemblyReference.cache, Directory: obj, Extention: .cache, Size: 17489
+Driectory Name: Debug, Path: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug, TotalSize: 2995302
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\FSharp.Core.dll, Directory: Debug, Extention: .dll, Size: 2702408
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\Tutorial.exe, Directory: Debug, Extention: .exe, Size: 125952
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\Tutorial.fsproj.CopyComplete, Directory: Debug, Extention: .CopyComplete, Size: 0
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\Tutorial.fsproj.CoreCompileInputs.cache, Directory: Debug, Extention: .cache, Size: 42
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\Tutorial.fsproj.FileListAbsolute.txt, Directory: Debug, Extention: .txt, Size: 2003
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\Tutorial.fsprojAssemblyReference.cache, Directory: Debug, Extention: .cache, Size: 28193
+File Name: D:\GotHub\FSharp\Examples\Tutorial\Tutorial\obj\Debug\Tutorial.pdb, Directory: Debug, Extention: .pdb, Size: 136704
+Driectory Name: FileSizeExplorer, Path: D:\GotHub\FSharp\FileSizeExplorer, TotalSize: 1147
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer.sln, Directory: FileSizeExplorer, Extention: .sln, Size: 1147
+Driectory Name: .vs, Path: D:\GotHub\FSharp\FileSizeExplorer\.vs, TotalSize: 0
+Driectory Name: FileSizeExplorer, Path: D:\GotHub\FSharp\FileSizeExplorer\.vs\FileSizeExplorer, TotalSize: 0
+Driectory Name: v15, Path: D:\GotHub\FSharp\FileSizeExplorer\.vs\FileSizeExplorer\v15, TotalSize: 46592
+File Name: D:\GotHub\FSharp\FileSizeExplorer\.vs\FileSizeExplorer\v15\.suo, Directory: v15, Extention: .suo, Size: 46592
+Driectory Name: FileSizeExplorer, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer, TotalSize: 9716
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\App.config, Directory: FileSizeExplorer, Extention: .config, Size: 189
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\AssemblyInfo.fs, Directory: FileSizeExplorer, Extention: .fs, Size: 1518
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\FileSizeExplorer.fsproj, Directory: FileSizeExplorer, Extention: .fsproj, Size: 3641
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\packages.config, Directory: FileSizeExplorer, Extention: .config, Size: 218
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\Program.fs, Directory: FileSizeExplorer, Extention: .fs, Size: 3845
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\Test.fsx, Directory: FileSizeExplorer, Extention: .fsx, Size: 305
+Driectory Name: bin, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin, TotalSize: 0
+Driectory Name: Debug, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug, TotalSize: 3882849
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\FileSizeExplorer.exe, Directory: Debug, Extention: .exe, Size: 22016
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\FileSizeExplorer.exe.config, Directory: Debug, Extention: .config, Size: 189
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\FileSizeExplorer.pdb, Directory: Debug, Extention: .pdb, Size: 30208
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\FileSizeExplorer.XML, Directory: Debug, Extention: .XML, Size: 130
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\FSharp.Core.dll, Directory: Debug, Extention: .dll, Size: 2702408
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\FSharp.Core.xml, Directory: Debug, Extention: .xml, Size: 762040
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\Output.txt, Directory: Debug, Extention: .txt, Size: 83869
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\System.ValueTuple.dll, Directory: Debug, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\System.ValueTuple.xml, Directory: Debug, Extention: .xml, Size: 203751
+Driectory Name: cs, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\it, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 41536
+Driectory Name: ja, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\ko, TotalSize: 43072
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 43072
+Driectory Name: pl, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\pl, TotalSize: 42056
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 42056
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\pt-BR, TotalSize: 39568
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 39568
+Driectory Name: ru, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Debug\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: Release, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release, TotalSize: 3797894
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\FileSizeExplorer.exe, Directory: Release, Extention: .exe, Size: 22016
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\FileSizeExplorer.exe.config, Directory: Release, Extention: .config, Size: 189
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\FileSizeExplorer.pdb, Directory: Release, Extention: .pdb, Size: 28160
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\FileSizeExplorer.XML, Directory: Release, Extention: .XML, Size: 130
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\FSharp.Core.dll, Directory: Release, Extention: .dll, Size: 2702408
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\FSharp.Core.xml, Directory: Release, Extention: .xml, Size: 762040
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\System.ValueTuple.dll, Directory: Release, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\System.ValueTuple.xml, Directory: Release, Extention: .xml, Size: 203751
+Driectory Name: cs, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\it, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 41536
+Driectory Name: ja, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\ko, TotalSize: 43072
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 43072
+Driectory Name: pl, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\pl, TotalSize: 42056
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 42056
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\pt-BR, TotalSize: 39568
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 39568
+Driectory Name: ru, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\bin\Release\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: obj, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj, TotalSize: 19812
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\FileSizeExplorer.fsprojAssemblyReference.cache, Directory: obj, Extention: .cache, Size: 19788
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\fsac.cache, Directory: obj, Extention: .cache, Size: 24
+Driectory Name: Debug, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug, TotalSize: 2776427
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\CoreCompileInputs.cache, Directory: Debug, Extention: .cache, Size: 42
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FileSizeExplorer.exe, Directory: Debug, Extention: .exe, Size: 22016
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FileSizeExplorer.fsproj.CopyComplete, Directory: Debug, Extention: .CopyComplete, Size: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FileSizeExplorer.fsproj.CoreCompileInputs.cache, Directory: Debug, Extention: .cache, Size: 42
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FileSizeExplorer.fsproj.FileListAbsolute.txt, Directory: Debug, Extention: .txt, Size: 2324
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FileSizeExplorer.fsprojAssemblyReference.cache, Directory: Debug, Extention: .cache, Size: 19387
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FileSizeExplorer.pdb, Directory: Debug, Extention: .pdb, Size: 30208
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Debug\FSharp.Core.dll, Directory: Debug, Extention: .dll, Size: 2702408
+Driectory Name: Release, Path: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release, TotalSize: 2754891
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release\FileSizeExplorer.exe, Directory: Release, Extention: .exe, Size: 22016
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release\FileSizeExplorer.fsproj.CopyComplete, Directory: Release, Extention: .CopyComplete, Size: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release\FileSizeExplorer.fsproj.CoreCompileInputs.cache, Directory: Release, Extention: .cache, Size: 42
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release\FileSizeExplorer.fsproj.FileListAbsolute.txt, Directory: Release, Extention: .txt, Size: 2265
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release\FileSizeExplorer.pdb, Directory: Release, Extention: .pdb, Size: 28160
+File Name: D:\GotHub\FSharp\FileSizeExplorer\FileSizeExplorer\obj\Release\FSharp.Core.dll, Directory: Release, Extention: .dll, Size: 2702408
+Driectory Name: packages, Path: D:\GotHub\FSharp\FileSizeExplorer\packages, TotalSize: 0
+Driectory Name: FSharp.Core.4.5.2, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2, TotalSize: 2847992
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\.signature.p7s, Directory: FSharp.Core.4.5.2, Extention: .p7s, Size: 9354
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\FSharp.Core.4.5.2.nupkg, Directory: FSharp.Core.4.5.2, Extention: .nupkg, Size: 2838638
+Driectory Name: lib, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib, TotalSize: 0
+Driectory Name: net45, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45, TotalSize: 4504069
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.dll, Directory: net45, Extention: .dll, Size: 2702408
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.optdata, Directory: net45, Extention: .optdata, Size: 441414
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.resources.dll, Directory: net45, Extention: .dll, Size: 21504
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.sigdata, Directory: net45, Extention: .sigdata, Size: 576703
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.xml, Directory: net45, Extention: .xml, Size: 762040
+Driectory Name: cs, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\it, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 41536
+Driectory Name: ja, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\ko, TotalSize: 43072
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 43072
+Driectory Name: pl, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\pl, TotalSize: 42056
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 42056
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\pt-BR, TotalSize: 39568
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 39568
+Driectory Name: ru, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\net45\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: netstandard1.6, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6, TotalSize: 4492096
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.dll, Directory: netstandard1.6, Extention: .dll, Size: 2707920
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.optdata, Directory: netstandard1.6, Extention: .optdata, Size: 441325
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.sigdata, Directory: netstandard1.6, Extention: .sigdata, Size: 583687
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.xml, Directory: netstandard1.6, Extention: .xml, Size: 759164
+Driectory Name: cs, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\cs, TotalSize: 41024
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\cs\FSharp.Core.resources.dll, Directory: cs, Extention: .dll, Size: 41024
+Driectory Name: de, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\de, TotalSize: 42048
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\de\FSharp.Core.resources.dll, Directory: de, Extention: .dll, Size: 42048
+Driectory Name: en, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\en, TotalSize: 39488
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\en\FSharp.Core.resources.dll, Directory: en, Extention: .dll, Size: 39488
+Driectory Name: es, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\es, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\es\FSharp.Core.resources.dll, Directory: es, Extention: .dll, Size: 41536
+Driectory Name: fr, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\fr, TotalSize: 41536
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\fr\FSharp.Core.resources.dll, Directory: fr, Extention: .dll, Size: 41536
+Driectory Name: it, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\it, TotalSize: 40080
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\it\FSharp.Core.resources.dll, Directory: it, Extention: .dll, Size: 40080
+Driectory Name: ja, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ja, TotalSize: 43584
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ja\FSharp.Core.resources.dll, Directory: ja, Extention: .dll, Size: 43584
+Driectory Name: ko, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ko, TotalSize: 44496
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ko\FSharp.Core.resources.dll, Directory: ko, Extention: .dll, Size: 44496
+Driectory Name: pl, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pl, TotalSize: 40584
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pl\FSharp.Core.resources.dll, Directory: pl, Extention: .dll, Size: 40584
+Driectory Name: pt-BR, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pt-BR, TotalSize: 41024
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\pt-BR\FSharp.Core.resources.dll, Directory: pt-BR, Extention: .dll, Size: 41024
+Driectory Name: ru, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ru, TotalSize: 48192
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\ru\FSharp.Core.resources.dll, Directory: ru, Extention: .dll, Size: 48192
+Driectory Name: tr, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\tr, TotalSize: 41936
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\tr\FSharp.Core.resources.dll, Directory: tr, Extention: .dll, Size: 41936
+Driectory Name: zh-Hans, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hans, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hans\FSharp.Core.resources.dll, Directory: zh-Hans, Extention: .dll, Size: 38976
+Driectory Name: zh-Hant, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hant, TotalSize: 38976
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\FSharp.Core.4.5.2\lib\netstandard1.6\zh-Hant\FSharp.Core.resources.dll, Directory: zh-Hant, Extention: .dll, Size: 38976
+Driectory Name: System.ValueTuple.4.4.0, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0, TotalSize: 225306
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\LICENSE.TXT, Directory: System.ValueTuple.4.4.0, Extention: .TXT, Size: 1139
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\System.ValueTuple.4.4.0.nupkg, Directory: System.ValueTuple.4.4.0, Extention: .nupkg, Size: 212534
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\THIRD-PARTY-NOTICES.TXT, Directory: System.ValueTuple.4.4.0, Extention: .TXT, Size: 11591
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\useSharedDesignerContext.txt, Directory: System.ValueTuple.4.4.0, Extention: .txt, Size: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\version.txt, Directory: System.ValueTuple.4.4.0, Extention: .txt, Size: 42
+Driectory Name: lib, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib, TotalSize: 0
+Driectory Name: MonoAndroid10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\MonoAndroid10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\MonoAndroid10\_._, Directory: MonoAndroid10, Extention: ._, Size: 0
+Driectory Name: MonoTouch10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\MonoTouch10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\MonoTouch10\_._, Directory: MonoTouch10, Extention: ._, Size: 0
+Driectory Name: net461, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\net461, TotalSize: 282951
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll, Directory: net461, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.xml, Directory: net461, Extention: .xml, Size: 203751
+Driectory Name: net47, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\net47, TotalSize: 228527
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\net47\System.ValueTuple.dll, Directory: net47, Extention: .dll, Size: 24776
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\net47\System.ValueTuple.xml, Directory: net47, Extention: .xml, Size: 203751
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netcoreapp2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netcoreapp2.0\_._, Directory: netcoreapp2.0, Extention: ._, Size: 0
+Driectory Name: netstandard1.0, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netstandard1.0, TotalSize: 282959
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netstandard1.0\System.ValueTuple.dll, Directory: netstandard1.0, Extention: .dll, Size: 79208
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netstandard1.0\System.ValueTuple.xml, Directory: netstandard1.0, Extention: .xml, Size: 203751
+Driectory Name: netstandard2.0, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netstandard2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\netstandard2.0\_._, Directory: netstandard2.0, Extention: ._, Size: 0
+Driectory Name: portable-net40+sl4+win8+wp8, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\portable-net40+sl4+win8+wp8, TotalSize: 282951
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\portable-net40+sl4+win8+wp8\System.ValueTuple.dll, Directory: portable-net40+sl4+win8+wp8, Extention: .dll, Size: 79200
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\portable-net40+sl4+win8+wp8\System.ValueTuple.xml, Directory: portable-net40+sl4+win8+wp8, Extention: .xml, Size: 203751
+Driectory Name: xamarinios10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarinios10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarinios10\_._, Directory: xamarinios10, Extention: ._, Size: 0
+Driectory Name: xamarinmac20, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarinmac20, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarinmac20\_._, Directory: xamarinmac20, Extention: ._, Size: 0
+Driectory Name: xamarintvos10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarintvos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarintvos10\_._, Directory: xamarintvos10, Extention: ._, Size: 0
+Driectory Name: xamarinwatchos10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarinwatchos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\lib\xamarinwatchos10\_._, Directory: xamarinwatchos10, Extention: ._, Size: 0
+Driectory Name: ref, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref, TotalSize: 0
+Driectory Name: MonoAndroid10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\MonoAndroid10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\MonoAndroid10\_._, Directory: MonoAndroid10, Extention: ._, Size: 0
+Driectory Name: MonoTouch10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\MonoTouch10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\MonoTouch10\_._, Directory: MonoTouch10, Extention: ._, Size: 0
+Driectory Name: net461, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\net461, TotalSize: 244551
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\net461\System.ValueTuple.dll, Directory: net461, Extention: .dll, Size: 40800
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\net461\System.ValueTuple.xml, Directory: net461, Extention: .xml, Size: 203751
+Driectory Name: net47, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\net47, TotalSize: 225607
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\net47\System.ValueTuple.dll, Directory: net47, Extention: .dll, Size: 21856
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\net47\System.ValueTuple.xml, Directory: net47, Extention: .xml, Size: 203751
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\netcoreapp2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\netcoreapp2.0\_._, Directory: netcoreapp2.0, Extention: ._, Size: 0
+Driectory Name: netstandard2.0, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\netstandard2.0, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\netstandard2.0\_._, Directory: netstandard2.0, Extention: ._, Size: 0
+Driectory Name: portable-net40+sl4+win8+wp8, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\portable-net40+sl4+win8+wp8, TotalSize: 245063
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\portable-net40+sl4+win8+wp8\System.ValueTuple.dll, Directory: portable-net40+sl4+win8+wp8, Extention: .dll, Size: 41312
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\portable-net40+sl4+win8+wp8\System.ValueTuple.xml, Directory: portable-net40+sl4+win8+wp8, Extention: .xml, Size: 203751
+Driectory Name: xamarinios10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarinios10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarinios10\_._, Directory: xamarinios10, Extention: ._, Size: 0
+Driectory Name: xamarinmac20, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarinmac20, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarinmac20\_._, Directory: xamarinmac20, Extention: ._, Size: 0
+Driectory Name: xamarintvos10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarintvos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarintvos10\_._, Directory: xamarintvos10, Extention: ._, Size: 0
+Driectory Name: xamarinwatchos10, Path: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarinwatchos10, TotalSize: 0
+File Name: D:\GotHub\FSharp\FileSizeExplorer\packages\System.ValueTuple.4.4.0\ref\xamarinwatchos10\_._, Directory: xamarinwatchos10, Extention: ._, Size: 0
+Driectory Name: WebTestProject, Path: D:\GotHub\FSharp\WebTestProject, TotalSize: 0
+Driectory Name: bin, Path: D:\GotHub\FSharp\WebTestProject\bin, TotalSize: 0
+Driectory Name: Debug, Path: D:\GotHub\FSharp\WebTestProject\bin\Debug, TotalSize: 0
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\FSharp\WebTestProject\bin\Debug\netcoreapp2.0, TotalSize: 0
+Driectory Name: obj, Path: D:\GotHub\FSharp\WebTestProject\obj, TotalSize: 0
+Driectory Name: Debug, Path: D:\GotHub\FSharp\WebTestProject\obj\Debug, TotalSize: 0
+Driectory Name: netcoreapp2.0, Path: D:\GotHub\FSharp\WebTestProject\obj\Debug\netcoreapp2.0, TotalSize: 0
+Driectory Name: SolidExamples, Path: D:\GotHub\SolidExamples, TotalSize: 65
+File Name: D:\GotHub\SolidExamples\README.md, Directory: SolidExamples, Extention: .md, Size: 65
+Driectory Name: .git, Path: D:\GotHub\SolidExamples\.git, TotalSize: 578
+File Name: D:\GotHub\SolidExamples\.git\config, Directory: .git, Extention: , Size: 244
+File Name: D:\GotHub\SolidExamples\.git\description, Directory: .git, Extention: , Size: 73
+File Name: D:\GotHub\SolidExamples\.git\FETCH_HEAD, Directory: .git, Extention: , Size: 101
+File Name: D:\GotHub\SolidExamples\.git\HEAD, Directory: .git, Extention: , Size: 23
+File Name: D:\GotHub\SolidExamples\.git\index, Directory: .git, Extention: , Size: 137
+Driectory Name: hooks, Path: D:\GotHub\SolidExamples\.git\hooks, TotalSize: 15268
+File Name: D:\GotHub\SolidExamples\.git\hooks\applypatch-msg.sample, Directory: hooks, Extention: .sample, Size: 478
+File Name: D:\GotHub\SolidExamples\.git\hooks\commit-msg.sample, Directory: hooks, Extention: .sample, Size: 896
+File Name: D:\GotHub\SolidExamples\.git\hooks\post-update.sample, Directory: hooks, Extention: .sample, Size: 189
+File Name: D:\GotHub\SolidExamples\.git\hooks\pre-applypatch.sample, Directory: hooks, Extention: .sample, Size: 424
+File Name: D:\GotHub\SolidExamples\.git\hooks\pre-commit.sample, Directory: hooks, Extention: .sample, Size: 1642
+File Name: D:\GotHub\SolidExamples\.git\hooks\pre-push.sample, Directory: hooks, Extention: .sample, Size: 1348
+File Name: D:\GotHub\SolidExamples\.git\hooks\pre-rebase.sample, Directory: hooks, Extention: .sample, Size: 4898
+File Name: D:\GotHub\SolidExamples\.git\hooks\pre-receive.sample, Directory: hooks, Extention: .sample, Size: 544
+File Name: D:\GotHub\SolidExamples\.git\hooks\prepare-commit-msg.sample, Directory: hooks, Extention: .sample, Size: 1239
+File Name: D:\GotHub\SolidExamples\.git\hooks\update.sample, Directory: hooks, Extention: .sample, Size: 3610
+Driectory Name: info, Path: D:\GotHub\SolidExamples\.git\info, TotalSize: 240
+File Name: D:\GotHub\SolidExamples\.git\info\exclude, Directory: info, Extention: , Size: 240
+Driectory Name: logs, Path: D:\GotHub\SolidExamples\.git\logs, TotalSize: 147
+File Name: D:\GotHub\SolidExamples\.git\logs\HEAD, Directory: logs, Extention: , Size: 147
+Driectory Name: refs, Path: D:\GotHub\SolidExamples\.git\logs\refs, TotalSize: 0
+Driectory Name: heads, Path: D:\GotHub\SolidExamples\.git\logs\refs\heads, TotalSize: 147
+File Name: D:\GotHub\SolidExamples\.git\logs\refs\heads\master, Directory: heads, Extention: , Size: 147
+Driectory Name: remotes, Path: D:\GotHub\SolidExamples\.git\logs\refs\remotes, TotalSize: 0
+Driectory Name: origin, Path: D:\GotHub\SolidExamples\.git\logs\refs\remotes\origin, TotalSize: 153
+File Name: D:\GotHub\SolidExamples\.git\logs\refs\remotes\origin\master, Directory: origin, Extention: , Size: 153
+Driectory Name: objects, Path: D:\GotHub\SolidExamples\.git\objects, TotalSize: 0
+Driectory Name: 4c, Path: D:\GotHub\SolidExamples\.git\objects\4c, TotalSize: 75
+File Name: D:\GotHub\SolidExamples\.git\objects\4c\c44bae87babdda39ad4bdbc2770fd02cb605dd, Directory: 4c, Extention: , Size: 75
+Driectory Name: b7, Path: D:\GotHub\SolidExamples\.git\objects\b7, TotalSize: 508
+File Name: D:\GotHub\SolidExamples\.git\objects\b7\9e6ff8d564a32b953a6aa322daaa7e8ec5da11, Directory: b7, Extention: , Size: 508
+Driectory Name: d2, Path: D:\GotHub\SolidExamples\.git\objects\d2, TotalSize: 54
+File Name: D:\GotHub\SolidExamples\.git\objects\d2\9a05a86ec8da5df9d42c2e3dce001fe187c64b, Directory: d2, Extention: , Size: 54
+Driectory Name: info, Path: D:\GotHub\SolidExamples\.git\objects\info, TotalSize: 0
+Driectory Name: pack, Path: D:\GotHub\SolidExamples\.git\objects\pack, TotalSize: 0
+Driectory Name: refs, Path: D:\GotHub\SolidExamples\.git\refs, TotalSize: 0
+Driectory Name: heads, Path: D:\GotHub\SolidExamples\.git\refs\heads, TotalSize: 41
+File Name: D:\GotHub\SolidExamples\.git\refs\heads\master, Directory: heads, Extention: , Size: 41
+Driectory Name: remotes, Path: D:\GotHub\SolidExamples\.git\refs\remotes, TotalSize: 0
+Driectory Name: origin, Path: D:\GotHub\SolidExamples\.git\refs\remotes\origin, TotalSize: 41
+File Name: D:\GotHub\SolidExamples\.git\refs\remotes\origin\master, Directory: origin, Extention: , Size: 41
+Driectory Name: tags, Path: D:\GotHub\SolidExamples\.git\refs\tags, TotalSize: 0
+Driectory Name: TestWizard, Path: D:\GotHub\TestWizard, TotalSize: 0
+Total cound of files is: 585! 
